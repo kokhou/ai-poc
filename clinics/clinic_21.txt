@@ -1,0 +1,5 @@
+Clinic Name: Clinic 627
+Services: Cavity Fillings, Orthodontic Retainers, Nutritional Counseling, Dental Crowns, Pediatric Dentistry, 3D Dental Imaging, Fluoride Treatments, Sleep Apnea Treatment, Mouthguards and Nightguards, Oral Pathology
+Location Latitude: 3.139003
+Location Longitude: 101.583922
+Operation Time: 9 AM - 6 PM

@@ -1,0 +1,5 @@
+Clinic Name: Clinic 651
+Services: Teeth Whitening, Sedation Dentistry, Fluoride Treatments, Cosmetic Bonding, Biopsy Services, Zirconia Crowns, Root Canal Therapy, Mobile Dentistry, Mouthguards and Nightguards
+Location Latitude: 3.139003
+Location Longitude: 101.599861
+Operation Time: 8 AM - 4 PM

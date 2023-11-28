@@ -1,0 +1,5 @@
+Clinic Name: Clinic 427
+Services: Emergency Dental Care, Orthodontic Treatments, Dental Sealants, Sedation Dentistry, Root Canal Therapy, Cosmetic Bonding, Gingivectomy, Orthodontic Retainers, Full Mouth Reconstruction, Bite Analysis, Dentures, Dental Implants, Zirconia Crowns, Snoring Prevention Devices, Custom Sports Mouthguards
+Location Latitude: 3.139003
+Location Longitude: 101.663346
+Operation Time: 10 AM - 6 PM

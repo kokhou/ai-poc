@@ -1,0 +1,5 @@
+Clinic Name: Clinic 372
+Services: Botox for TMJ Disorders, Tooth Extractions, Oral Hygiene Education, Custom Sports Mouthguards, Snoring Prevention Devices
+Location Latitude: 3.139003
+Location Longitude: 101.671275
+Operation Time: 9 AM - 4 PM

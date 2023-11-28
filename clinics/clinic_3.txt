@@ -1,0 +1,5 @@
+Clinic Name: Clinic 988
+Services: Root Canal Therapy, Dental Crowns, Custom Sports Mouthguards, Digital Impressions, Nutritional Counseling, Veneers, Halitosis Treatment, Mobile Dentistry, Geriatric Dentistry, TMJ Treatments
+Location Latitude: 3.139003
+Location Longitude: 101.529474
+Operation Time: 8 AM - 4 PM

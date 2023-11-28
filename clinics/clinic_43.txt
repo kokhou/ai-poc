@@ -1,0 +1,5 @@
+Clinic Name: Clinic 291
+Services: Mouthguards and Nightguards, Emergency Dental Care, Gingivectomy, Root Canal Therapy, Cavity Fillings, Dental Crowns, Laser Dentistry, Oral Cancer Screenings, Orthodontic Treatments, Post-Operative Care, Occlusal Adjustment, Halitosis Treatment
+Location Latitude: 3.139003
+Location Longitude: 101.664907
+Operation Time: 8 AM - 4 PM

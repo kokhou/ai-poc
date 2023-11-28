@@ -1,0 +1,5 @@
+Clinic Name: Clinic 946
+Services: Digital Impressions, Teeth Whitening, Periodontal Treatments, Inlays and Onlays, Snoring Prevention Devices, Pulpotomy, Dental Sealants, Dental Bridges, Botox for TMJ Disorders, Orthodontic Retainers
+Location Latitude: 3.139003
+Location Longitude: 101.852251
+Operation Time: 10 AM - 4 PM

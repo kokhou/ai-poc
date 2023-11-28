@@ -1,0 +1,5 @@
+Clinic Name: Clinic 313
+Services: Fluoride Treatments, Digital Impressions, Routine Dental Exams, Pediatric Dentistry, Botox for TMJ Disorders, Oral Hygiene Education, Sedation Dentistry, Cosmetic Bonding, Dental Bridges, Oral Pathology, Tooth Extractions, TMJ Treatments
+Location Latitude: 3.139003
+Location Longitude: 101.602129
+Operation Time: 9 AM - 5 PM

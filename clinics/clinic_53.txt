@@ -1,0 +1,5 @@
+Clinic Name: Clinic 827
+Services: Pulpotomy, Teeth Whitening, Custom Sports Mouthguards, Tooth Extractions, Orthodontic Treatments, Root Canal Therapy, Periodontal Treatments, Sleep Apnea Treatment, 3D Dental Imaging, Dental Sealants
+Location Latitude: 3.139003
+Location Longitude: 101.694039
+Operation Time: 9 AM - 5 PM

@@ -1,0 +1,5 @@
+Clinic Name: Clinic 222
+Services: Custom Sports Mouthguards, Oral Cancer Screenings, Dental Crowns, Botox for TMJ Disorders, Digital Impressions, Gingivectomy, Emergency Dental Care, Tooth Extractions, Bite Analysis, Mobile Dentistry, Sleep Apnea Treatment
+Location Latitude: 3.139003
+Location Longitude: 101.664951
+Operation Time: 9 AM - 6 PM

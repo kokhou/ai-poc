@@ -1,0 +1,5 @@
+Clinic Name: Clinic 812
+Services: Oral Cancer Screenings, Oral Hygiene Education, Dental Implants, TMJ Treatments, Routine Dental Exams, Dental Bridges, Orthodontic Treatments, Pediatric Dentistry, Botox for TMJ Disorders, Occlusal Adjustment
+Location Latitude: 3.139003
+Location Longitude: 101.614186
+Operation Time: 10 AM - 6 PM

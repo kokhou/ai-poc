@@ -1,0 +1,5 @@
+Clinic Name: Clinic 303
+Services: Geriatric Dentistry, Dentures, Botox for TMJ Disorders, TMJ Treatments, Dental Bridges, Inlays and Onlays, Mobile Dentistry, Oral Pathology, Post-Operative Care, Cosmetic Bonding, Teeth Whitening, Orthodontic Retainers
+Location Latitude: 3.139003
+Location Longitude: 101.716160
+Operation Time: 10 AM - 5 PM

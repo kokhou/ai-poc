@@ -1,0 +1,5 @@
+Clinic Name: Clinic 634
+Services: Teeth Whitening, Laser Dentistry, Oral Hygiene Education, Botox for TMJ Disorders, Mobile Dentistry, Occlusal Adjustment, Biopsy Services, Dental Sealants, Nutritional Counseling, Post-Operative Care, Professional Teeth Cleaning, Zirconia Crowns, Gingivectomy, Sleep Apnea Treatment, Snoring Prevention Devices
+Location Latitude: 3.139003
+Location Longitude: 101.537069
+Operation Time: 9 AM - 5 PM

@@ -1,0 +1,5 @@
+Clinic Name: Clinic 816
+Services: Dental Crowns, Full Mouth Reconstruction, Snoring Prevention Devices, Veneers, Professional Teeth Cleaning, Orthodontic Treatments, Periodontal Treatments, Mobile Dentistry, Inlays and Onlays
+Location Latitude: 3.139003
+Location Longitude: 101.861773
+Operation Time: 8 AM - 5 PM

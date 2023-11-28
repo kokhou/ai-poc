@@ -1,0 +1,5 @@
+Clinic Name: Clinic 285
+Services: Post-Operative Care, Teeth Whitening, Root Canal Therapy, Pulpotomy, Custom Sports Mouthguards, Botox for TMJ Disorders, Occlusal Adjustment, Professional Teeth Cleaning, Oral Pathology, Biopsy Services, Routine Dental Exams
+Location Latitude: 3.139003
+Location Longitude: 101.568190
+Operation Time: 8 AM - 6 PM

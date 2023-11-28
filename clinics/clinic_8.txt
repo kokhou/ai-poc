@@ -1,0 +1,5 @@
+Clinic Name: Clinic 63
+Services: Root Canal Therapy, Pediatric Dentistry, Oral Hygiene Education, Occlusal Adjustment, Inlays and Onlays, Geriatric Dentistry, Professional Teeth Cleaning, Full Mouth Reconstruction, Oral Pathology, Veneers, TMJ Treatments, Nutritional Counseling, Routine Dental Exams, Mouthguards and Nightguards, Botox for TMJ Disorders
+Location Latitude: 3.139003
+Location Longitude: 101.547775
+Operation Time: 10 AM - 6 PM

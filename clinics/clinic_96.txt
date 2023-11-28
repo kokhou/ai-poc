@@ -1,0 +1,5 @@
+Clinic Name: Clinic 812
+Services: Post-Operative Care, Dental X-rays, Laser Dentistry, Inlays and Onlays, Mouthguards and Nightguards, Geriatric Dentistry, Bite Analysis, 3D Dental Imaging, Pulpotomy, Mobile Dentistry, Tooth Extractions, Nutritional Counseling, Snoring Prevention Devices
+Location Latitude: 3.139003
+Location Longitude: 101.857662
+Operation Time: 8 AM - 5 PM

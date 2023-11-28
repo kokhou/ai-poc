@@ -1,0 +1,5 @@
+Clinic Name: Clinic 839
+Services: Dentures, Pediatric Dentistry, Dental X-rays, Cavity Fillings, Cosmetic Bonding, Periodontal Treatments, Emergency Dental Care, Zirconia Crowns, Oral Pathology, Dental Bridges, Oral Cancer Screenings, Sedation Dentistry
+Location Latitude: 3.139003
+Location Longitude: 101.564117
+Operation Time: 10 AM - 6 PM

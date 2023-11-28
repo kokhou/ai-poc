@@ -1,0 +1,5 @@
+Clinic Name: Clinic 361
+Services: Botox for TMJ Disorders, Custom Sports Mouthguards, Veneers, Halitosis Treatment, Oral Cancer Screenings, Dental Implants, Digital Impressions, Teeth Whitening, Professional Teeth Cleaning, Occlusal Adjustment, Nutritional Counseling, Biopsy Services, Sleep Apnea Treatment, Oral Hygiene Education, Cavity Fillings
+Location Latitude: 3.139003
+Location Longitude: 101.638312
+Operation Time: 10 AM - 6 PM

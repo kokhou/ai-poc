@@ -1,0 +1,5 @@
+Clinic Name: Clinic 323
+Services: Sleep Apnea Treatment, Emergency Dental Care, Cavity Fillings, Post-Operative Care, Laser Dentistry, Professional Teeth Cleaning, Full Mouth Reconstruction, Digital Impressions
+Location Latitude: 3.139003
+Location Longitude: 101.744058
+Operation Time: 10 AM - 5 PM

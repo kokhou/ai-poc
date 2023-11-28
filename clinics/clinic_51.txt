@@ -1,0 +1,5 @@
+Clinic Name: Clinic 747
+Services: 3D Dental Imaging, Cosmetic Bonding, TMJ Treatments, Fluoride Treatments, Digital Impressions, Custom Sports Mouthguards, Post-Operative Care, Pulpotomy, Dental Crowns, Veneers, Sleep Apnea Treatment, Periodontal Treatments
+Location Latitude: 3.139003
+Location Longitude: 101.684571
+Operation Time: 8 AM - 4 PM

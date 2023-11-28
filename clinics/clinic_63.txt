@@ -1,0 +1,5 @@
+Clinic Name: Clinic 334
+Services: Oral Hygiene Education, Cosmetic Bonding, Periodontal Treatments, Bite Analysis, Fluoride Treatments, Pulpotomy, Orthodontic Retainers, Tooth Extractions
+Location Latitude: 3.139003
+Location Longitude: 101.734105
+Operation Time: 9 AM - 5 PM

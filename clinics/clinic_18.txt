@@ -1,0 +1,5 @@
+Clinic Name: Clinic 768
+Services: Orthodontic Treatments, Teeth Whitening, Inlays and Onlays, Mobile Dentistry, Cosmetic Bonding
+Location Latitude: 3.139003
+Location Longitude: 101.572513
+Operation Time: 8 AM - 6 PM

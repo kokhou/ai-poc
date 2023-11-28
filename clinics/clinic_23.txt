@@ -1,0 +1,5 @@
+Clinic Name: Clinic 297
+Services: Orthodontic Treatments, Mouthguards and Nightguards, Professional Teeth Cleaning, Teeth Whitening, Dentures, Dental Crowns, Routine Dental Exams, Laser Dentistry, Pulpotomy, Full Mouth Reconstruction
+Location Latitude: 3.139003
+Location Longitude: 101.589767
+Operation Time: 8 AM - 5 PM

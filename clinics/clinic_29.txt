@@ -1,0 +1,5 @@
+Clinic Name: Clinic 802
+Services: Pediatric Dentistry, Professional Teeth Cleaning, Pulpotomy, Veneers, Snoring Prevention Devices, Dental Implants, Bite Analysis, 3D Dental Imaging, Mouthguards and Nightguards, Dental Sealants, Botox for TMJ Disorders
+Location Latitude: 3.139003
+Location Longitude: 101.614537
+Operation Time: 9 AM - 4 PM

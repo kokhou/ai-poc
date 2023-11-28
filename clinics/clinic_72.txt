@@ -1,0 +1,5 @@
+Clinic Name: Clinic 699
+Services: TMJ Treatments, Biopsy Services, Dental Sealants, Nutritional Counseling, Oral Cancer Screenings
+Location Latitude: 3.139003
+Location Longitude: 101.782393
+Operation Time: 8 AM - 4 PM

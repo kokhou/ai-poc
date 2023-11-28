@@ -1,0 +1,5 @@
+Clinic Name: Clinic 550
+Services: Professional Teeth Cleaning, Dental Implants, Mouthguards and Nightguards, Orthodontic Retainers, Pulpotomy, Nutritional Counseling, Geriatric Dentistry, 3D Dental Imaging, Biopsy Services, Emergency Dental Care, Full Mouth Reconstruction, Occlusal Adjustment, Pediatric Dentistry
+Location Latitude: 3.139003
+Location Longitude: 101.637150
+Operation Time: 8 AM - 6 PM

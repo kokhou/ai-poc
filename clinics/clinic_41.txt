@@ -1,0 +1,5 @@
+Clinic Name: Clinic 769
+Services: Bite Analysis, Botox for TMJ Disorders, Pediatric Dentistry, 3D Dental Imaging, Root Canal Therapy, Oral Hygiene Education, Cosmetic Bonding, Fluoride Treatments, Mouthguards and Nightguards
+Location Latitude: 3.139003
+Location Longitude: 101.655876
+Operation Time: 9 AM - 6 PM

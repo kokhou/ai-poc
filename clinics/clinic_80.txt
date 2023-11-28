@@ -1,0 +1,5 @@
+Clinic Name: Clinic 986
+Services: Veneers, Pediatric Dentistry, Tooth Extractions, Cosmetic Bonding, Snoring Prevention Devices, Root Canal Therapy, Botox for TMJ Disorders, Bite Analysis, TMJ Treatments, Dentures, Teeth Whitening, Post-Operative Care, Orthodontic Retainers, Routine Dental Exams
+Location Latitude: 3.139003
+Location Longitude: 101.809577
+Operation Time: 8 AM - 4 PM

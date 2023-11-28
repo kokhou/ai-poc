@@ -1,0 +1,5 @@
+Clinic Name: Clinic 859
+Services: Dentures, Professional Teeth Cleaning, Emergency Dental Care, Oral Pathology, Bite Analysis, Dental Crowns, Veneers, Laser Dentistry, Inlays and Onlays, Nutritional Counseling, Orthodontic Retainers
+Location Latitude: 3.139003
+Location Longitude: 101.587539
+Operation Time: 10 AM - 5 PM

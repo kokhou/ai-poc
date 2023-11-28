@@ -1,0 +1,5 @@
+Clinic Name: Clinic 259
+Services: Bite Analysis, Professional Teeth Cleaning, Nutritional Counseling, Routine Dental Exams, Orthodontic Retainers, Gingivectomy, Inlays and Onlays, Dental Crowns, Custom Sports Mouthguards, Botox for TMJ Disorders, Digital Impressions, Laser Dentistry, Cavity Fillings, Fluoride Treatments, Mouthguards and Nightguards
+Location Latitude: 3.139003
+Location Longitude: 101.693793
+Operation Time: 10 AM - 4 PM

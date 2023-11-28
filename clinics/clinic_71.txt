@@ -1,0 +1,5 @@
+Clinic Name: Clinic 495
+Services: Orthodontic Treatments, Sedation Dentistry, Halitosis Treatment, Dental Bridges
+Location Latitude: 3.139003
+Location Longitude: 101.778998
+Operation Time: 9 AM - 5 PM

@@ -1,0 +1,5 @@
+Clinic Name: Clinic 946
+Services: Dental Crowns, Pulpotomy, Dental Implants, Snoring Prevention Devices, Dental Bridges, TMJ Treatments, Teeth Whitening, Cosmetic Bonding, Botox for TMJ Disorders, Oral Pathology, Tooth Extractions, Post-Operative Care
+Location Latitude: 3.139003
+Location Longitude: 101.645113
+Operation Time: 9 AM - 6 PM

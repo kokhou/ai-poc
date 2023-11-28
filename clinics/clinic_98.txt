@@ -1,0 +1,5 @@
+Clinic Name: Clinic 445
+Services: Post-Operative Care, Nutritional Counseling, Zirconia Crowns, Laser Dentistry, Inlays and Onlays, Periodontal Treatments, Orthodontic Treatments, Veneers, Professional Teeth Cleaning, Orthodontic Retainers, Teeth Whitening
+Location Latitude: 3.139003
+Location Longitude: 101.859489
+Operation Time: 8 AM - 5 PM

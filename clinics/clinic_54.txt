@@ -1,0 +1,5 @@
+Clinic Name: Clinic 413
+Services: Gingivectomy, Oral Pathology, Cavity Fillings, Root Canal Therapy, Fluoride Treatments, Inlays and Onlays, Routine Dental Exams, Custom Sports Mouthguards, Veneers, Mobile Dentistry, Occlusal Adjustment, Teeth Whitening, Oral Hygiene Education, Emergency Dental Care
+Location Latitude: 3.139003
+Location Longitude: 101.694904
+Operation Time: 9 AM - 5 PM

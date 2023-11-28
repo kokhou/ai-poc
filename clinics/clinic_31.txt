@@ -1,0 +1,5 @@
+Clinic Name: Clinic 825
+Services: Custom Sports Mouthguards, Pulpotomy, Orthodontic Retainers, Orthodontic Treatments, Nutritional Counseling, Periodontal Treatments, TMJ Treatments, Biopsy Services, Laser Dentistry, Occlusal Adjustment, Dental Sealants, Mobile Dentistry
+Location Latitude: 3.139003
+Location Longitude: 101.623884
+Operation Time: 9 AM - 6 PM

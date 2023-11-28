@@ -1,0 +1,5 @@
+Clinic Name: Clinic 72
+Services: Dental Sealants, Sleep Apnea Treatment, Sedation Dentistry, Orthodontic Treatments, Veneers, Emergency Dental Care, Dental Bridges, Occlusal Adjustment, TMJ Treatments, Tooth Extractions, Professional Teeth Cleaning, Biopsy Services, Cosmetic Bonding
+Location Latitude: 3.139003
+Location Longitude: 101.778565
+Operation Time: 10 AM - 5 PM

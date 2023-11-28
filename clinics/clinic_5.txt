@@ -1,0 +1,5 @@
+Clinic Name: Clinic 857
+Services: Laser Dentistry, Snoring Prevention Devices, Oral Cancer Screenings, Digital Impressions, Geriatric Dentistry, Teeth Whitening, Bite Analysis, Orthodontic Treatments, Zirconia Crowns
+Location Latitude: 3.139003
+Location Longitude: 101.531157
+Operation Time: 10 AM - 5 PM

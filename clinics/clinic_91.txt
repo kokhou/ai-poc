@@ -1,0 +1,5 @@
+Clinic Name: Clinic 630
+Services: TMJ Treatments, Biopsy Services, Dental Crowns, Routine Dental Exams, Occlusal Adjustment, Mouthguards and Nightguards, Inlays and Onlays
+Location Latitude: 3.139003
+Location Longitude: 101.847638
+Operation Time: 10 AM - 6 PM

@@ -1,0 +1,5 @@
+Clinic Name: Clinic 331
+Services: Orthodontic Retainers, Routine Dental Exams, Post-Operative Care, Tooth Extractions, Veneers, Bite Analysis, Occlusal Adjustment, Cavity Fillings, Mobile Dentistry, Biopsy Services, Root Canal Therapy, Professional Teeth Cleaning
+Location Latitude: 3.139003
+Location Longitude: 101.818730
+Operation Time: 8 AM - 5 PM

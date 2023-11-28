@@ -1,0 +1,5 @@
+Clinic Name: Clinic 563
+Services: Digital Impressions, Root Canal Therapy, 3D Dental Imaging, Teeth Whitening, Post-Operative Care, Occlusal Adjustment, Sleep Apnea Treatment, Emergency Dental Care, Periodontal Treatments, Gingivectomy
+Location Latitude: 3.139003
+Location Longitude: 101.718805
+Operation Time: 10 AM - 5 PM

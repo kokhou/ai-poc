@@ -1,0 +1,5 @@
+Clinic Name: Clinic 55
+Services: Periodontal Treatments, Fluoride Treatments, Oral Hygiene Education, Custom Sports Mouthguards, Nutritional Counseling, Dental Sealants, Professional Teeth Cleaning, Oral Cancer Screenings, Sedation Dentistry, Mouthguards and Nightguards, Veneers, Pulpotomy
+Location Latitude: 3.139003
+Location Longitude: 101.784292
+Operation Time: 8 AM - 4 PM

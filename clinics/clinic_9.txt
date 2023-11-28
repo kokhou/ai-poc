@@ -1,0 +1,5 @@
+Clinic Name: Clinic 510
+Services: Sleep Apnea Treatment, Oral Hygiene Education, 3D Dental Imaging, Mouthguards and Nightguards, Dental Implants, Fluoride Treatments, Mobile Dentistry, Dentures
+Location Latitude: 3.139003
+Location Longitude: 101.553726
+Operation Time: 10 AM - 6 PM

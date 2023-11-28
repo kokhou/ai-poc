@@ -1,0 +1,5 @@
+Clinic Name: Clinic 146
+Services: 3D Dental Imaging, Dental Bridges, Custom Sports Mouthguards, Professional Teeth Cleaning, Routine Dental Exams, Biopsy Services, Geriatric Dentistry, Nutritional Counseling
+Location Latitude: 3.139003
+Location Longitude: 101.634383
+Operation Time: 10 AM - 4 PM

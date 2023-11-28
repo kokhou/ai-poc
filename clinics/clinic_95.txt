@@ -1,0 +1,5 @@
+Clinic Name: Clinic 506
+Services: Cosmetic Bonding, TMJ Treatments, Dentures, Oral Hygiene Education
+Location Latitude: 3.139003
+Location Longitude: 101.857634
+Operation Time: 10 AM - 5 PM
