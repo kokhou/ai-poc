@@ -1,5 +1,0 @@
-Clinic Name: Clinic 914
-Services: 3D Dental Imaging, Mobile Dentistry, Orthodontic Retainers, Oral Cancer Screenings, Post-Operative Care, Tooth Extractions, Nutritional Counseling, Emergency Dental Care, Orthodontic Treatments, Dental Crowns, Oral Pathology, Custom Sports Mouthguards, Laser Dentistry, Dental Sealants
-Location Latitude: 3.139003
-Location Longitude: 101.583651
-Operation Time: 10 AM - 5 PM

@@ -1,5 +1,0 @@
-Clinic Name: Clinic 359
-Services: Cosmetic Bonding, Post-Operative Care, Sedation Dentistry, Root Canal Therapy, Dental Implants, Cavity Fillings, Periodontal Treatments
-Location Latitude: 3.139003
-Location Longitude: 101.802804
-Operation Time: 9 AM - 4 PM

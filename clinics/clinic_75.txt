@@ -1,5 +1,0 @@
-Clinic Name: Clinic 355
-Services: Oral Cancer Screenings, Custom Sports Mouthguards, Orthodontic Retainers, Root Canal Therapy, Professional Teeth Cleaning, Full Mouth Reconstruction, Cavity Fillings, Biopsy Services, Sleep Apnea Treatment, Tooth Extractions
-Location Latitude: 3.139003
-Location Longitude: 101.790272
-Operation Time: 9 AM - 5 PM

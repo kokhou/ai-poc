@@ -1,5 +1,0 @@
-Clinic Name: Clinic 756
-Services: 3D Dental Imaging, Zirconia Crowns, Fluoride Treatments, Periodontal Treatments, Dental Bridges, Emergency Dental Care, Inlays and Onlays, Post-Operative Care, Bite Analysis, Cosmetic Bonding
-Location Latitude: 3.139003
-Location Longitude: 101.682979
-Operation Time: 8 AM - 4 PM

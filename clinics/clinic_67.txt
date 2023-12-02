@@ -1,5 +1,0 @@
-Clinic Name: Clinic 643
-Services: Dental Crowns, Mouthguards and Nightguards, Zirconia Crowns, Orthodontic Treatments, Orthodontic Retainers, Cavity Fillings, Emergency Dental Care, Nutritional Counseling
-Location Latitude: 3.139003
-Location Longitude: 101.758347
-Operation Time: 9 AM - 5 PM

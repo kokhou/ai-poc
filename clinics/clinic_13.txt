@@ -1,5 +1,0 @@
-Clinic Name: Clinic 907
-Services: Pediatric Dentistry, Sedation Dentistry, Root Canal Therapy, Custom Sports Mouthguards, Veneers, Gingivectomy, Biopsy Services, Oral Cancer Screenings
-Location Latitude: 3.139003
-Location Longitude: 101.565603
-Operation Time: 9 AM - 4 PM

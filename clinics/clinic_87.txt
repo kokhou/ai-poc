@@ -1,5 +1,0 @@
-Clinic Name: Clinic 618
-Services: Dentures, 3D Dental Imaging, Oral Hygiene Education, Snoring Prevention Devices, Oral Cancer Screenings, Post-Operative Care, Emergency Dental Care, Gingivectomy
-Location Latitude: 3.139003
-Location Longitude: 101.835725
-Operation Time: 8 AM - 6 PM

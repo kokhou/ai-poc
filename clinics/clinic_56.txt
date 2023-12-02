@@ -1,5 +1,0 @@
-Clinic Name: Clinic 174
-Services: Routine Dental Exams, Pulpotomy, Oral Pathology, Periodontal Treatments, 3D Dental Imaging, Snoring Prevention Devices, Full Mouth Reconstruction
-Location Latitude: 3.139003
-Location Longitude: 101.706552
-Operation Time: 8 AM - 4 PM

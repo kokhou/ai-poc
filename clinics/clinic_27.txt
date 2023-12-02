@@ -1,5 +1,0 @@
-Clinic Name: Clinic 434
-Services: Dental Bridges, Occlusal Adjustment, Dentures, Cavity Fillings, Post-Operative Care, Emergency Dental Care, Cosmetic Bonding, Sedation Dentistry, Teeth Whitening, Dental Crowns, Oral Hygiene Education
-Location Latitude: 3.139003
-Location Longitude: 101.603101
-Operation Time: 10 AM - 4 PM

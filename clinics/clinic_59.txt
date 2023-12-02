@@ -1,5 +1,0 @@
-Clinic Name: Clinic 351
-Services: Snoring Prevention Devices, Cosmetic Bonding, Digital Impressions, Halitosis Treatment, Post-Operative Care, Geriatric Dentistry, Root Canal Therapy, Mobile Dentistry
-Location Latitude: 3.139003
-Location Longitude: 101.720486
-Operation Time: 9 AM - 5 PM

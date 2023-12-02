@@ -1,5 +1,0 @@
-Clinic Name: Clinic 96
-Services: Routine Dental Exams, Occlusal Adjustment, Oral Hygiene Education, Dentures, Root Canal Therapy
-Location Latitude: 3.139003
-Location Longitude: 101.841750
-Operation Time: 10 AM - 4 PM

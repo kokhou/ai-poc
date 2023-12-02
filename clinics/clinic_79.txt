@@ -1,5 +1,0 @@
-Clinic Name: Clinic 728
-Services: Tooth Extractions, Periodontal Treatments, TMJ Treatments, Laser Dentistry, Orthodontic Treatments, 3D Dental Imaging, Zirconia Crowns, Bite Analysis
-Location Latitude: 3.139003
-Location Longitude: 101.807124
-Operation Time: 8 AM - 6 PM

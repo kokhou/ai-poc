@@ -1,5 +1,0 @@
-Clinic Name: Clinic 704
-Services: Digital Impressions, Dental Crowns, Professional Teeth Cleaning, Cosmetic Bonding, Routine Dental Exams, Biopsy Services, Dentures, Geriatric Dentistry, Occlusal Adjustment, Sedation Dentistry
-Location Latitude: 3.139003
-Location Longitude: 101.841384
-Operation Time: 10 AM - 4 PM

@@ -1,5 +1,0 @@
-Clinic Name: Clinic 422
-Services: Dental Sealants, Biopsy Services, Halitosis Treatment, Nutritional Counseling, Gingivectomy, Digital Impressions, Pulpotomy, Pediatric Dentistry, 3D Dental Imaging, Root Canal Therapy, Occlusal Adjustment, Orthodontic Treatments
-Location Latitude: 3.139003
-Location Longitude: 101.769388
-Operation Time: 10 AM - 4 PM

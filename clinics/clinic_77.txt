@@ -1,5 +1,0 @@
-Clinic Name: Clinic 56
-Services: Geriatric Dentistry, Pediatric Dentistry, Emergency Dental Care, Biopsy Services, Tooth Extractions, Gingivectomy, Fluoride Treatments, Dental Implants, Dental Bridges, Cosmetic Bonding, Dental Sealants, TMJ Treatments
-Location Latitude: 3.139003
-Location Longitude: 101.795905
-Operation Time: 8 AM - 6 PM

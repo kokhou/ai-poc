@@ -1,5 +1,0 @@
-Clinic Name: Clinic 571
-Services: Fluoride Treatments, Dentures, Dental Bridges, Veneers, Sleep Apnea Treatment, Mouthguards and Nightguards, Dental Sealants, Snoring Prevention Devices, Halitosis Treatment, Orthodontic Treatments, Mobile Dentistry, Root Canal Therapy, Biopsy Services
-Location Latitude: 3.139003
-Location Longitude: 101.667006
-Operation Time: 8 AM - 5 PM

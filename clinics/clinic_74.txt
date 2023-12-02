@@ -1,5 +1,0 @@
-Clinic Name: Clinic 392
-Services: Root Canal Therapy, Custom Sports Mouthguards, Veneers, 3D Dental Imaging, Teeth Whitening, Gingivectomy, Mouthguards and Nightguards, Zirconia Crowns
-Location Latitude: 3.139003
-Location Longitude: 101.786388
-Operation Time: 9 AM - 4 PM

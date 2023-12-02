@@ -1,5 +1,0 @@
-Clinic Name: Clinic 893
-Services: Snoring Prevention Devices, Occlusal Adjustment, Oral Hygiene Education, Dental Bridges, Halitosis Treatment, Dental Implants, Routine Dental Exams, Full Mouth Reconstruction, Orthodontic Treatments, Geriatric Dentistry, Post-Operative Care, Pulpotomy
-Location Latitude: 3.139003
-Location Longitude: 101.640651
-Operation Time: 8 AM - 6 PM

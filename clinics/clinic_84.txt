@@ -1,5 +1,0 @@
-Clinic Name: Clinic 621
-Services: Tooth Extractions, Sleep Apnea Treatment, Routine Dental Exams, Root Canal Therapy, Dental Crowns, Emergency Dental Care, Halitosis Treatment, Custom Sports Mouthguards, Full Mouth Reconstruction, Cosmetic Bonding, Oral Cancer Screenings, Orthodontic Retainers
-Location Latitude: 3.139003
-Location Longitude: 101.818779
-Operation Time: 10 AM - 5 PM

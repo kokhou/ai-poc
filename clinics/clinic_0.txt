@@ -1,5 +1,0 @@
-Clinic Name: Clinic 783
-Services: Cavity Fillings, Mouthguards and Nightguards, Custom Sports Mouthguards, Tooth Extractions, Halitosis Treatment, Dental Implants, TMJ Treatments, Biopsy Services, Orthodontic Treatments, Fluoride Treatments, Oral Pathology, Cosmetic Bonding, Botox for TMJ Disorders, Oral Cancer Screenings
-Location Latitude: 3.139003
-Location Longitude: 101.507439
-Operation Time: 8 AM - 4 PM

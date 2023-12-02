@@ -1,5 +1,0 @@
-Clinic Name: Clinic 379
-Services: Full Mouth Reconstruction, Oral Cancer Screenings, TMJ Treatments, Sleep Apnea Treatment, Oral Pathology, Fluoride Treatments, Dental Crowns, Dentures, Digital Impressions
-Location Latitude: 3.139003
-Location Longitude: 101.570378
-Operation Time: 8 AM - 5 PM

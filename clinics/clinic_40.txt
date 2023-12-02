@@ -1,5 +1,0 @@
-Clinic Name: Clinic 99
-Services: Snoring Prevention Devices, Dental Sealants, Gingivectomy, Routine Dental Exams, Tooth Extractions, Post-Operative Care, Mobile Dentistry, Sedation Dentistry, Orthodontic Retainers
-Location Latitude: 3.139003
-Location Longitude: 101.650257
-Operation Time: 9 AM - 4 PM

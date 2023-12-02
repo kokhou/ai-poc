@@ -1,5 +1,0 @@
-Clinic Name: Clinic 956
-Services: Pulpotomy, Mouthguards and Nightguards, Sedation Dentistry, Periodontal Treatments, TMJ Treatments, Orthodontic Retainers, Dentures, Biopsy Services, Mobile Dentistry, Inlays and Onlays, Teeth Whitening, Full Mouth Reconstruction, Fluoride Treatments
-Location Latitude: 3.139003
-Location Longitude: 101.723425
-Operation Time: 10 AM - 6 PM

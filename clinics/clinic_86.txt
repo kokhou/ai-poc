@@ -1,5 +1,0 @@
-Clinic Name: Clinic 283
-Services: Dentures, Cosmetic Bonding, Nutritional Counseling, Sleep Apnea Treatment, Oral Cancer Screenings, TMJ Treatments, Digital Impressions, Biopsy Services
-Location Latitude: 3.139003
-Location Longitude: 101.826954
-Operation Time: 8 AM - 6 PM

@@ -1,5 +1,0 @@
-Clinic Name: Clinic 321
-Services: Emergency Dental Care, Gingivectomy, Mobile Dentistry, Sedation Dentistry, Root Canal Therapy, Dental Sealants, Bite Analysis, Oral Cancer Screenings, Dental Crowns, Cosmetic Bonding, Oral Pathology, Dental Bridges, Halitosis Treatment, Orthodontic Retainers, Cavity Fillings
-Location Latitude: 3.139003
-Location Longitude: 101.793958
-Operation Time: 9 AM - 4 PM

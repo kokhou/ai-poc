@@ -1,5 +1,0 @@
-Clinic Name: Clinic 743
-Services: Zirconia Crowns, Bite Analysis, Dental Sealants, Tooth Extractions, Routine Dental Exams
-Location Latitude: 3.139003
-Location Longitude: 101.677456
-Operation Time: 8 AM - 5 PM

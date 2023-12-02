@@ -1,5 +1,0 @@
-Clinic Name: Clinic 808
-Services: Teeth Whitening, Botox for TMJ Disorders, Cosmetic Bonding, Dental Crowns, Routine Dental Exams, Pediatric Dentistry, Root Canal Therapy, Custom Sports Mouthguards
-Location Latitude: 3.139003
-Location Longitude: 101.674762
-Operation Time: 8 AM - 5 PM

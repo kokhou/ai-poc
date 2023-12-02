@@ -1,5 +1,0 @@
-Clinic Name: Clinic 367
-Services: Orthodontic Treatments, Nutritional Counseling, Teeth Whitening, Oral Hygiene Education, Mobile Dentistry, Cavity Fillings, Bite Analysis, Post-Operative Care, Oral Cancer Screenings, Biopsy Services, Orthodontic Retainers, Botox for TMJ Disorders, Full Mouth Reconstruction, Dental Bridges
-Location Latitude: 3.139003
-Location Longitude: 101.726973
-Operation Time: 9 AM - 6 PM

@@ -1,5 +1,0 @@
-Clinic Name: Clinic 444
-Services: Veneers, Professional Teeth Cleaning, Emergency Dental Care, Cavity Fillings, Biopsy Services, 3D Dental Imaging, Sedation Dentistry, Laser Dentistry, Bite Analysis, Post-Operative Care
-Location Latitude: 3.139003
-Location Longitude: 101.555926
-Operation Time: 9 AM - 5 PM

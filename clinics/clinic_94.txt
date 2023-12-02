@@ -1,5 +1,0 @@
-Clinic Name: Clinic 711
-Services: Veneers, Orthodontic Retainers, TMJ Treatments, Occlusal Adjustment, Digital Impressions, Dental Sealants, Oral Hygiene Education, Root Canal Therapy, Oral Pathology, Mobile Dentistry
-Location Latitude: 3.139003
-Location Longitude: 101.855435
-Operation Time: 9 AM - 6 PM

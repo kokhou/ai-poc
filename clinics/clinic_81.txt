@@ -1,5 +1,0 @@
-Clinic Name: Clinic 401
-Services: Root Canal Therapy, Custom Sports Mouthguards, Teeth Whitening, Sedation Dentistry, Snoring Prevention Devices, Fluoride Treatments
-Location Latitude: 3.139003
-Location Longitude: 101.813639
-Operation Time: 8 AM - 5 PM

@@ -1,5 +1,0 @@
-Clinic Name: Clinic 937
-Services: Periodontal Treatments, Emergency Dental Care, Biopsy Services, Full Mouth Reconstruction, Orthodontic Treatments, Dental Implants, Pediatric Dentistry, Fluoride Treatments, Oral Cancer Screenings, Inlays and Onlays, Teeth Whitening, Post-Operative Care, Orthodontic Retainers, Digital Impressions, Professional Teeth Cleaning
-Location Latitude: 3.139003
-Location Longitude: 101.725733
-Operation Time: 9 AM - 5 PM

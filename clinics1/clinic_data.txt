@@ -1,599 +1,599 @@
 Clinic Name: Clinic 100
-Services: Emergency Dental Care, 3D Dental Imaging, Post-Operative Care, Orthodontic Retainers, Laser Dentistry, Tooth Extractions, Dental X-rays, Occlusal Adjustment, Digital Impressions, Snoring Prevention Devices, Cosmetic Bonding, Teeth Whitening, Sedation Dentistry
-Location Latitude: 2.959776
-Location Longitude: 101.507890
-Operation Time: 8 AM - 4 PM
-
-Clinic Name: Clinic 101
-Services: Occlusal Adjustment, Periodontal Treatments, Sedation Dentistry, Dental Implants, TMJ Treatments, Dental Bridges, Custom Sports Mouthguards, Dentures, Gingivectomy, Dental Crowns, Bite Analysis, Digital Impressions
-Location Latitude: 2.967048
-Location Longitude: 101.508987
-Operation Time: 9 AM - 4 PM
-
-Clinic Name: Clinic 102
-Services: Orthodontic Treatments, Mobile Dentistry, Tooth Extractions, Cosmetic Bonding, Halitosis Treatment, Oral Cancer Screenings, Sedation Dentistry, Routine Dental Exams, Orthodontic Retainers, Botox for TMJ Disorders, Dental Crowns, Professional Teeth Cleaning, Laser Dentistry, Bite Analysis
-Location Latitude: 2.968273
-Location Longitude: 101.510098
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 103
-Services: 3D Dental Imaging, Oral Hygiene Education, Post-Operative Care, Tooth Extractions, Inlays and Onlays, Mouthguards and Nightguards, Dental X-rays, Orthodontic Treatments, Pediatric Dentistry, Routine Dental Exams, Laser Dentistry
-Location Latitude: 2.969888
-Location Longitude: 101.510748
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 104
-Services: Routine Dental Exams, Pediatric Dentistry, Biopsy Services, Orthodontic Retainers, Cosmetic Bonding
-Location Latitude: 2.980750
-Location Longitude: 101.513747
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 105
-Services: Teeth Whitening, Fluoride Treatments, Custom Sports Mouthguards, Tooth Extractions, Orthodontic Retainers, Biopsy Services, Emergency Dental Care
-Location Latitude: 2.984295
-Location Longitude: 101.515615
-Operation Time: 9 AM - 4 PM
-
-Clinic Name: Clinic 106
-Services: Routine Dental Exams, Teeth Whitening, Dental Crowns, Cosmetic Bonding, Orthodontic Treatments, Snoring Prevention Devices, TMJ Treatments, Periodontal Treatments, Pulpotomy, Zirconia Crowns, Oral Pathology, Fluoride Treatments, Mouthguards and Nightguards, Professional Teeth Cleaning, Mobile Dentistry
-Location Latitude: 2.990900
-Location Longitude: 101.522543
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 107
-Services: Dental Crowns, Snoring Prevention Devices, Tooth Extractions, Inlays and Onlays, Occlusal Adjustment, Cavity Fillings, Oral Hygiene Education, Pediatric Dentistry, Orthodontic Retainers, Periodontal Treatments, Cosmetic Bonding, Mobile Dentistry, Dentures, Laser Dentistry, Emergency Dental Care
-Location Latitude: 2.992101
-Location Longitude: 101.527772
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 108
-Services: Sleep Apnea Treatment, Periodontal Treatments, Pediatric Dentistry, Inlays and Onlays, Zirconia Crowns, Nutritional Counseling, Geriatric Dentistry, Dentures, Pulpotomy
-Location Latitude: 2.994562
-Location Longitude: 101.527852
-Operation Time: 10 AM - 6 PM
-
-Clinic Name: Clinic 109
-Services: Dental X-rays, Routine Dental Exams, Orthodontic Retainers, Sedation Dentistry, Nutritional Counseling, Oral Pathology, Digital Impressions, Teeth Whitening, Dental Crowns, Professional Teeth Cleaning, Snoring Prevention Devices, Post-Operative Care, Halitosis Treatment, Pulpotomy
-Location Latitude: 2.998202
-Location Longitude: 101.530534
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 110
-Services: Dental Crowns, Custom Sports Mouthguards, Geriatric Dentistry, Root Canal Therapy, Professional Teeth Cleaning
-Location Latitude: 3.001401
-Location Longitude: 101.532995
-Operation Time: 9 AM - 4 PM
-
-Clinic Name: Clinic 111
-Services: Tooth Extractions, Oral Cancer Screenings, Occlusal Adjustment, Full Mouth Reconstruction, Root Canal Therapy
-Location Latitude: 3.005239
-Location Longitude: 101.542621
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 112
-Services: Laser Dentistry, Occlusal Adjustment, 3D Dental Imaging, Periodontal Treatments, Sleep Apnea Treatment, Geriatric Dentistry, Dental X-rays, Oral Cancer Screenings, Inlays and Onlays
-Location Latitude: 3.005521
-Location Longitude: 101.549817
+Specialty: Allergy and Immunology, Obstetrics, Neonatology, Vascular Surgery
+Location Latitude: 2.962589
+Location Longitude: 101.507280
 Operation Time: 8 AM - 6 PM
 
-Clinic Name: Clinic 113
-Services: Nutritional Counseling, 3D Dental Imaging, Periodontal Treatments, Full Mouth Reconstruction, Zirconia Crowns, Root Canal Therapy, Gingivectomy, Mouthguards and Nightguards, Cosmetic Bonding, Geriatric Dentistry
-Location Latitude: 3.006600
-Location Longitude: 101.550574
-Operation Time: 8 AM - 4 PM
+Clinic Name: Clinic 101
+Specialty: Vascular Surgery, Sports Medicine, Hematology, Dermatology, Obstetrics
+Location Latitude: 2.967228
+Location Longitude: 101.509643
+Operation Time: 9 AM - 6 PM
 
-Clinic Name: Clinic 114
-Services: Post-Operative Care, Dental Crowns, Digital Impressions, Full Mouth Reconstruction, Orthodontic Retainers, Inlays and Onlays, Custom Sports Mouthguards, Sleep Apnea Treatment, Periodontal Treatments, Orthodontic Treatments, Botox for TMJ Disorders, Pulpotomy, Emergency Dental Care, Root Canal Therapy
-Location Latitude: 3.007131
-Location Longitude: 101.556229
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 115
-Services: Digital Impressions, Full Mouth Reconstruction, Fluoride Treatments, Dental Implants, Bite Analysis, Botox for TMJ Disorders, TMJ Treatments, Orthodontic Treatments, Professional Teeth Cleaning, Veneers, Orthodontic Retainers, Sleep Apnea Treatment
-Location Latitude: 3.015928
-Location Longitude: 101.558741
+Clinic Name: Clinic 102
+Specialty: Geriatrics, Family Medicine, Colorectal Surgery, Sports Medicine
+Location Latitude: 2.968385
+Location Longitude: 101.517074
 Operation Time: 10 AM - 6 PM
 
-Clinic Name: Clinic 116
-Services: Dental Sealants, Orthodontic Treatments, Dental Bridges, Snoring Prevention Devices, Geriatric Dentistry, Post-Operative Care, Professional Teeth Cleaning, Oral Pathology, Gingivectomy, Laser Dentistry, Pulpotomy, Veneers
-Location Latitude: 3.026764
-Location Longitude: 101.559639
-Operation Time: 10 AM - 4 PM
+Clinic Name: Clinic 103
+Specialty: Neonatal-Perinatal Medicine, Pediatric Surgery, Urology, Dermatology
+Location Latitude: 2.987450
+Location Longitude: 101.521964
+Operation Time: 9 AM - 6 PM
 
-Clinic Name: Clinic 117
-Services: Routine Dental Exams, Dental Sealants, Botox for TMJ Disorders, Dental Crowns, Tooth Extractions, Oral Pathology, Veneers, Oral Hygiene Education, Dental X-rays, Digital Impressions
-Location Latitude: 3.026799
-Location Longitude: 101.563715
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 118
-Services: Sleep Apnea Treatment, Routine Dental Exams, Veneers, Laser Dentistry, Dentures, Dental X-rays, Nutritional Counseling, Mobile Dentistry
-Location Latitude: 3.046311
-Location Longitude: 101.564744
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 119
-Services: Custom Sports Mouthguards, Occlusal Adjustment, Botox for TMJ Disorders, Sleep Apnea Treatment, Digital Impressions
-Location Latitude: 3.046708
-Location Longitude: 101.567245
+Clinic Name: Clinic 104
+Specialty: Colorectal Surgery, Sleep Medicine, Gastroenterology, Maxillofacial Surgery
+Location Latitude: 2.988862
+Location Longitude: 101.531776
 Operation Time: 9 AM - 4 PM
 
+Clinic Name: Clinic 105
+Specialty: Otolaryngology, Orthopedics, Physical Therapy, Pediatric Surgery, Gynecology
+Location Latitude: 2.990708
+Location Longitude: 101.533552
+Operation Time: 10 AM - 6 PM
+
+Clinic Name: Clinic 106
+Specialty: Neonatology, Nuclear Medicine, Pediatric Surgery, Sports Medicine
+Location Latitude: 2.991155
+Location Longitude: 101.540765
+Operation Time: 9 AM - 4 PM
+
+Clinic Name: Clinic 107
+Specialty: Neonatology, Rheumatology, Endocrinology, Anesthesiology, Ophthalmology
+Location Latitude: 2.998272
+Location Longitude: 101.547481
+Operation Time: 10 AM - 4 PM
+
+Clinic Name: Clinic 108
+Specialty: Dental, Geriatric Medicine, Neurology, Sports Medicine
+Location Latitude: 2.999721
+Location Longitude: 101.551337
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 109
+Specialty: Psychiatry, Sports Medicine, Maxillofacial Surgery, Nuclear Medicine, Forensic Medicine
+Location Latitude: 3.004480
+Location Longitude: 101.562059
+Operation Time: 10 AM - 6 PM
+
+Clinic Name: Clinic 110
+Specialty: Gastrointestinal Surgery, Hospice and Palliative Medicine, Allergy and Immunology
+Location Latitude: 3.005890
+Location Longitude: 101.563448
+Operation Time: 8 AM - 5 PM
+
+Clinic Name: Clinic 111
+Specialty: Pediatric Surgery, Gastrointestinal Surgery, Physical Therapy, Hospice and Palliative Medicine, Cardiology
+Location Latitude: 3.006748
+Location Longitude: 101.569038
+Operation Time: 10 AM - 4 PM
+
+Clinic Name: Clinic 112
+Specialty: Pediatric Surgery, Gastrointestinal Surgery, Hematology, Pulmonology, Pediatrics
+Location Latitude: 3.007355
+Location Longitude: 101.569937
+Operation Time: 10 AM - 5 PM
+
+Clinic Name: Clinic 113
+Specialty: Otolaryngology, Cardiothoracic Surgery, Pediatric Surgery
+Location Latitude: 3.015258
+Location Longitude: 101.569943
+Operation Time: 10 AM - 5 PM
+
+Clinic Name: Clinic 114
+Specialty: Dermatology, Geriatrics, Rheumatology, Otolaryngology
+Location Latitude: 3.022109
+Location Longitude: 101.574836
+Operation Time: 8 AM - 4 PM
+
+Clinic Name: Clinic 115
+Specialty: Radiology, Psychiatry, Orthopedics, Geriatric Medicine, Cardiothoracic Surgery
+Location Latitude: 3.024736
+Location Longitude: 101.581551
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 116
+Specialty: Colorectal Surgery, Transplant Surgery, Neurology, Ophthalmology
+Location Latitude: 3.030159
+Location Longitude: 101.591598
+Operation Time: 9 AM - 4 PM
+
+Clinic Name: Clinic 117
+Specialty: Colorectal Surgery, Gastrointestinal Surgery, Nephrology, Radiology, Hospice and Palliative Medicine
+Location Latitude: 3.030600
+Location Longitude: 101.595850
+Operation Time: 10 AM - 5 PM
+
+Clinic Name: Clinic 118
+Specialty: Oncology, Psychiatry, Gastrointestinal Surgery, Gynecology
+Location Latitude: 3.031537
+Location Longitude: 101.599530
+Operation Time: 10 AM - 6 PM
+
+Clinic Name: Clinic 119
+Specialty: Oncology, Infectious Disease, Sleep Medicine
+Location Latitude: 3.035724
+Location Longitude: 101.603216
+Operation Time: 9 AM - 6 PM
+
 Clinic Name: Clinic 120
-Services: Dental Bridges, Sedation Dentistry, Biopsy Services, Mouthguards and Nightguards, Full Mouth Reconstruction
-Location Latitude: 3.048352
-Location Longitude: 101.579725
+Specialty: Anesthesiology, Otolaryngology, Dermatology, Psychiatry, Interventional Radiology
+Location Latitude: 3.035840
+Location Longitude: 101.604818
 Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 121
-Services: Botox for TMJ Disorders, Periodontal Treatments, Snoring Prevention Devices, Pulpotomy, Dental Sealants, Biopsy Services, Dentures
-Location Latitude: 3.049845
-Location Longitude: 101.579859
-Operation Time: 9 AM - 5 PM
-
-Clinic Name: Clinic 122
-Services: Routine Dental Exams, Pulpotomy, Geriatric Dentistry, Mouthguards and Nightguards, Orthodontic Retainers, Oral Pathology, Digital Impressions, Fluoride Treatments, Veneers, Gingivectomy, Custom Sports Mouthguards, Halitosis Treatment, Sedation Dentistry
-Location Latitude: 3.055827
-Location Longitude: 101.583325
+Specialty: Geriatrics, Reproductive Endocrinology, Pediatric Surgery, Radiology
+Location Latitude: 3.047643
+Location Longitude: 101.605997
 Operation Time: 8 AM - 5 PM
 
+Clinic Name: Clinic 122
+Specialty: Sleep Medicine, Cardiothoracic Surgery, Ophthalmology, Vascular Surgery, Radiology
+Location Latitude: 3.048227
+Location Longitude: 101.607988
+Operation Time: 9 AM - 4 PM
+
 Clinic Name: Clinic 123
-Services: Dental Crowns, Post-Operative Care, Zirconia Crowns, Dental Bridges, Dentures
-Location Latitude: 3.057013
-Location Longitude: 101.586323
-Operation Time: 9 AM - 5 PM
+Specialty: Colorectal Surgery, Otolaryngology, Family Medicine
+Location Latitude: 3.051827
+Location Longitude: 101.608889
+Operation Time: 9 AM - 4 PM
 
 Clinic Name: Clinic 124
-Services: Biopsy Services, Cosmetic Bonding, Tooth Extractions, Dental Crowns, Cavity Fillings, Dental X-rays, Routine Dental Exams, Gingivectomy, Occlusal Adjustment, Veneers, Sleep Apnea Treatment, Professional Teeth Cleaning
-Location Latitude: 3.060235
-Location Longitude: 101.589099
-Operation Time: 10 AM - 5 PM
+Specialty: Podiatry, Otolaryngology, Family Medicine
+Location Latitude: 3.052128
+Location Longitude: 101.610111
+Operation Time: 8 AM - 5 PM
 
 Clinic Name: Clinic 125
-Services: Biopsy Services, Sedation Dentistry, Cosmetic Bonding, Laser Dentistry, Tooth Extractions, Dental Bridges, Teeth Whitening, Oral Hygiene Education, Dentures, Mouthguards and Nightguards, Botox for TMJ Disorders, TMJ Treatments, Emergency Dental Care, Pediatric Dentistry
-Location Latitude: 3.072305
-Location Longitude: 101.589269
-Operation Time: 10 AM - 4 PM
+Specialty: Dental, Neonatal-Perinatal Medicine, Radiology, Forensic Medicine, Gastroenterology
+Location Latitude: 3.058936
+Location Longitude: 101.612871
+Operation Time: 10 AM - 6 PM
 
 Clinic Name: Clinic 126
-Services: Oral Pathology, Snoring Prevention Devices, Orthodontic Retainers, Nutritional Counseling, Biopsy Services, Digital Impressions, Geriatric Dentistry
-Location Latitude: 3.081836
-Location Longitude: 101.592240
-Operation Time: 10 AM - 4 PM
+Specialty: Ophthalmology, Dental, Interventional Radiology, Physical Therapy, Pediatric Surgery
+Location Latitude: 3.061981
+Location Longitude: 101.615817
+Operation Time: 10 AM - 5 PM
 
 Clinic Name: Clinic 127
-Services: Pediatric Dentistry, Pulpotomy, Mouthguards and Nightguards, Sleep Apnea Treatment, Periodontal Treatments, Fluoride Treatments, Orthodontic Treatments, Post-Operative Care, Oral Pathology, Professional Teeth Cleaning, Cavity Fillings, Botox for TMJ Disorders, Occlusal Adjustment
-Location Latitude: 3.087184
-Location Longitude: 101.594922
+Specialty: Pediatrics, Pain Management, Orthopedics
+Location Latitude: 3.072014
+Location Longitude: 101.617201
 Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 128
-Services: Routine Dental Exams, Professional Teeth Cleaning, Orthodontic Treatments, Gingivectomy, Post-Operative Care, Veneers, Occlusal Adjustment, Mouthguards and Nightguards, Sedation Dentistry, Emergency Dental Care
-Location Latitude: 3.092871
-Location Longitude: 101.597395
-Operation Time: 10 AM - 5 PM
+Specialty: Gastrointestinal Surgery, Orthopedics, Obstetrics
+Location Latitude: 3.075280
+Location Longitude: 101.621353
+Operation Time: 8 AM - 6 PM
 
 Clinic Name: Clinic 129
-Services: Dental Bridges, Bite Analysis, Emergency Dental Care, Zirconia Crowns, Post-Operative Care, Geriatric Dentistry, Dental Crowns, Cavity Fillings, Pediatric Dentistry
-Location Latitude: 3.094556
-Location Longitude: 101.598820
-Operation Time: 9 AM - 6 PM
+Specialty: Orthopedics, Nephrology, Plastic Surgery, Endocrinology, Pulmonology
+Location Latitude: 3.081086
+Location Longitude: 101.623857
+Operation Time: 9 AM - 5 PM
 
 Clinic Name: Clinic 130
-Services: Oral Pathology, Laser Dentistry, Root Canal Therapy, Halitosis Treatment, Inlays and Onlays, Tooth Extractions, Nutritional Counseling, Zirconia Crowns, Custom Sports Mouthguards, Dental X-rays
-Location Latitude: 3.097344
-Location Longitude: 101.600991
+Specialty: Nuclear Medicine, Maxillofacial Surgery, Colorectal Surgery, Neurology, Anesthesiology
+Location Latitude: 3.092039
+Location Longitude: 101.623894
 Operation Time: 8 AM - 5 PM
 
 Clinic Name: Clinic 131
-Services: Halitosis Treatment, Tooth Extractions, Inlays and Onlays, Zirconia Crowns, Sleep Apnea Treatment, Fluoride Treatments, Dental Sealants, Periodontal Treatments, Mouthguards and Nightguards, Biopsy Services, Dental Crowns, 3D Dental Imaging, Bite Analysis, Laser Dentistry, Dental Bridges
-Location Latitude: 3.098512
-Location Longitude: 101.607981
-Operation Time: 8 AM - 4 PM
+Specialty: General Surgery, Family Medicine, Pain Management, Urology
+Location Latitude: 3.096033
+Location Longitude: 101.625715
+Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 132
-Services: Inlays and Onlays, Root Canal Therapy, Tooth Extractions, Dental Sealants, Sleep Apnea Treatment, Routine Dental Exams, Botox for TMJ Disorders, Orthodontic Retainers, Oral Hygiene Education, Emergency Dental Care, Nutritional Counseling, Professional Teeth Cleaning, Pulpotomy, Pediatric Dentistry, Oral Pathology
-Location Latitude: 3.102557
-Location Longitude: 101.611369
-Operation Time: 8 AM - 5 PM
+Specialty: Orthopedics, Endocrinology, Sports Medicine, Urology, Pediatric Surgery
+Location Latitude: 3.101952
+Location Longitude: 101.626205
+Operation Time: 8 AM - 6 PM
 
 Clinic Name: Clinic 133
-Services: Botox for TMJ Disorders, Routine Dental Exams, Inlays and Onlays, Laser Dentistry, Bite Analysis, Veneers, Snoring Prevention Devices, Cavity Fillings, Geriatric Dentistry, 3D Dental Imaging, Fluoride Treatments, Oral Cancer Screenings, Cosmetic Bonding
-Location Latitude: 3.104063
-Location Longitude: 101.616730
-Operation Time: 10 AM - 6 PM
+Specialty: Orthopedics, Cardiothoracic Surgery, Colorectal Surgery, Medical Genetics, Forensic Medicine
+Location Latitude: 3.108098
+Location Longitude: 101.635242
+Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 134
-Services: TMJ Treatments, Oral Cancer Screenings, Root Canal Therapy, Professional Teeth Cleaning, Botox for TMJ Disorders, Orthodontic Retainers, Orthodontic Treatments, Periodontal Treatments, Dentures, Digital Impressions, Pulpotomy, Custom Sports Mouthguards
-Location Latitude: 3.108062
-Location Longitude: 101.622144
+Specialty: Obstetrics, Oncology, Pediatric Surgery, Geriatrics
+Location Latitude: 3.110415
+Location Longitude: 101.637903
 Operation Time: 10 AM - 4 PM
 
 Clinic Name: Clinic 135
-Services: Dental Bridges, Gingivectomy, Geriatric Dentistry, Bite Analysis, Orthodontic Treatments, Teeth Whitening, Root Canal Therapy, Snoring Prevention Devices
-Location Latitude: 3.108312
-Location Longitude: 101.633351
-Operation Time: 9 AM - 5 PM
-
-Clinic Name: Clinic 136
-Services: Oral Pathology, Bite Analysis, Inlays and Onlays, Occlusal Adjustment, Dental X-rays
-Location Latitude: 3.111151
-Location Longitude: 101.633634
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 137
-Services: Veneers, Routine Dental Exams, Oral Pathology, Pediatric Dentistry, Dental Implants, Oral Hygiene Education, Root Canal Therapy, Periodontal Treatments, Cavity Fillings, Bite Analysis, Emergency Dental Care, Professional Teeth Cleaning, Orthodontic Retainers
-Location Latitude: 3.113606
-Location Longitude: 101.634048
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 138
-Services: Cavity Fillings, Orthodontic Treatments, Professional Teeth Cleaning, Oral Pathology, Full Mouth Reconstruction, Geriatric Dentistry
-Location Latitude: 3.114757
-Location Longitude: 101.634637
-Operation Time: 9 AM - 4 PM
-
-Clinic Name: Clinic 139
-Services: Biopsy Services, Pediatric Dentistry, Inlays and Onlays, Orthodontic Treatments, Mobile Dentistry, Root Canal Therapy, Dental Bridges, Dental Crowns
-Location Latitude: 3.115749
-Location Longitude: 101.639855
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 140
-Services: Dental Bridges, Orthodontic Treatments, Veneers, Custom Sports Mouthguards, TMJ Treatments, Gingivectomy, Halitosis Treatment, Biopsy Services, Tooth Extractions, Sedation Dentistry, Dental Sealants, Occlusal Adjustment, Oral Hygiene Education
-Location Latitude: 3.126419
-Location Longitude: 101.640851
-Operation Time: 10 AM - 6 PM
-
-Clinic Name: Clinic 141
-Services: Occlusal Adjustment, Pediatric Dentistry, Bite Analysis, Oral Hygiene Education, Dental Sealants, Cavity Fillings, Sedation Dentistry
-Location Latitude: 3.127111
-Location Longitude: 101.649296
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 142
-Services: Emergency Dental Care, Botox for TMJ Disorders, Mobile Dentistry, Dentures, Root Canal Therapy
-Location Latitude: 3.130812
-Location Longitude: 101.650057
-Operation Time: 9 AM - 4 PM
-
-Clinic Name: Clinic 143
-Services: Inlays and Onlays, Post-Operative Care, Dental Crowns, Mouthguards and Nightguards, Bite Analysis, Custom Sports Mouthguards
-Location Latitude: 3.135686
-Location Longitude: 101.654005
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 144
-Services: Veneers, Root Canal Therapy, Full Mouth Reconstruction, Orthodontic Retainers, Oral Pathology, Oral Hygiene Education, Custom Sports Mouthguards, Snoring Prevention Devices, Mobile Dentistry, Dentures, Mouthguards and Nightguards, Pediatric Dentistry, Laser Dentistry
-Location Latitude: 3.139851
-Location Longitude: 101.654367
+Specialty: Physical Therapy, Psychiatry, Gastroenterology, Sports Medicine, Internal Medicine
+Location Latitude: 3.110438
+Location Longitude: 101.641129
 Operation Time: 8 AM - 6 PM
 
-Clinic Name: Clinic 145
-Services: Pediatric Dentistry, Cavity Fillings, Orthodontic Treatments, Halitosis Treatment, Veneers, Oral Pathology, Cosmetic Bonding, Dental Crowns, Dentures, Emergency Dental Care
-Location Latitude: 3.141991
-Location Longitude: 101.656945
-Operation Time: 9 AM - 4 PM
+Clinic Name: Clinic 136
+Specialty: Pediatric Surgery, Gastroenterology, Hematology, Anesthesiology, Hospice and Palliative Medicine
+Location Latitude: 3.110819
+Location Longitude: 101.642172
+Operation Time: 10 AM - 4 PM
 
-Clinic Name: Clinic 146
-Services: Dental Bridges, Oral Pathology, Inlays and Onlays, Gingivectomy, Post-Operative Care, Tooth Extractions, Zirconia Crowns, Emergency Dental Care, Laser Dentistry, Halitosis Treatment, Digital Impressions, Oral Cancer Screenings, Orthodontic Treatments, Fluoride Treatments, Pulpotomy
-Location Latitude: 3.145621
-Location Longitude: 101.661116
+Clinic Name: Clinic 137
+Specialty: Pain Management, Hematology, Anesthesiology, Gastrointestinal Surgery, Neonatology
+Location Latitude: 3.111360
+Location Longitude: 101.642207
 Operation Time: 8 AM - 5 PM
 
+Clinic Name: Clinic 138
+Specialty: Otolaryngology, Allergy and Immunology, Neonatal-Perinatal Medicine, Orthopedics
+Location Latitude: 3.112240
+Location Longitude: 101.648293
+Operation Time: 8 AM - 4 PM
+
+Clinic Name: Clinic 139
+Specialty: Anesthesiology, Vascular Surgery, Ophthalmology, Dental, Psychiatry
+Location Latitude: 3.113035
+Location Longitude: 101.652452
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 140
+Specialty: Geriatrics, Interventional Radiology, Radiology
+Location Latitude: 3.120636
+Location Longitude: 101.654518
+Operation Time: 8 AM - 5 PM
+
+Clinic Name: Clinic 141
+Specialty: Maxillofacial Surgery, Psychiatry, Reproductive Endocrinology, Orthopedics
+Location Latitude: 3.122585
+Location Longitude: 101.655284
+Operation Time: 9 AM - 6 PM
+
+Clinic Name: Clinic 142
+Specialty: Nuclear Medicine, Cardiology, Colorectal Surgery, Sleep Medicine
+Location Latitude: 3.129387
+Location Longitude: 101.658719
+Operation Time: 10 AM - 4 PM
+
+Clinic Name: Clinic 143
+Specialty: Bariatric Surgery, Internal Medicine, Nephrology, Neonatology
+Location Latitude: 3.134371
+Location Longitude: 101.660943
+Operation Time: 8 AM - 5 PM
+
+Clinic Name: Clinic 144
+Specialty: Psychiatry, Interventional Radiology, General Surgery, Internal Medicine
+Location Latitude: 3.135137
+Location Longitude: 101.663197
+Operation Time: 8 AM - 4 PM
+
+Clinic Name: Clinic 145
+Specialty: Geriatric Medicine, General Surgery, Pediatrics, Interventional Radiology, Nephrology
+Location Latitude: 3.140065
+Location Longitude: 101.664305
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 146
+Specialty: Dental, Nephrology, Hematology
+Location Latitude: 3.148152
+Location Longitude: 101.668913
+Operation Time: 9 AM - 4 PM
+
 Clinic Name: Clinic 147
-Services: Halitosis Treatment, Inlays and Onlays, Dental X-rays, Occlusal Adjustment, Sedation Dentistry, Dental Sealants, Teeth Whitening, Custom Sports Mouthguards
-Location Latitude: 3.145660
-Location Longitude: 101.667082
+Specialty: Rheumatology, Physical Therapy, Ophthalmology
+Location Latitude: 3.152714
+Location Longitude: 101.669672
 Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 148
-Services: Inlays and Onlays, Teeth Whitening, Cavity Fillings, Occlusal Adjustment, Biopsy Services, Fluoride Treatments, Dental Crowns, Pediatric Dentistry, Tooth Extractions, Bite Analysis, Routine Dental Exams, Custom Sports Mouthguards, Emergency Dental Care, Orthodontic Treatments, Orthodontic Retainers
-Location Latitude: 3.145992
-Location Longitude: 101.670636
-Operation Time: 10 AM - 4 PM
+Specialty: Plastic Surgery, Medical Genetics, Pain Management
+Location Latitude: 3.160916
+Location Longitude: 101.673381
+Operation Time: 10 AM - 5 PM
 
 Clinic Name: Clinic 149
-Services: Sleep Apnea Treatment, Sedation Dentistry, Veneers, Periodontal Treatments, Cosmetic Bonding, Orthodontic Treatments, Snoring Prevention Devices, Dental Crowns
-Location Latitude: 3.151752
-Location Longitude: 101.678899
-Operation Time: 9 AM - 6 PM
+Specialty: Podiatry, Gastrointestinal Surgery, Oncology
+Location Latitude: 3.161242
+Location Longitude: 101.682516
+Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 150
-Services: Laser Dentistry, Mobile Dentistry, Pediatric Dentistry, Pulpotomy, Botox for TMJ Disorders, Dentures, Orthodontic Treatments, Sleep Apnea Treatment, Sedation Dentistry, Cavity Fillings, Gingivectomy, Dental Crowns
-Location Latitude: 3.155277
-Location Longitude: 101.680520
+Specialty: Urology, Infectious Disease, Nephrology
+Location Latitude: 3.162723
+Location Longitude: 101.688068
 Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 151
-Services: Gingivectomy, Snoring Prevention Devices, Dental Crowns, Dental X-rays, Root Canal Therapy, Periodontal Treatments, Custom Sports Mouthguards, Pulpotomy, Teeth Whitening, Orthodontic Treatments, Digital Impressions, Dental Bridges, Tooth Extractions, Halitosis Treatment
-Location Latitude: 3.159682
-Location Longitude: 101.690770
-Operation Time: 9 AM - 5 PM
-
-Clinic Name: Clinic 152
-Services: Pediatric Dentistry, Dentures, Geriatric Dentistry, Oral Hygiene Education, Halitosis Treatment, Mouthguards and Nightguards, Dental Bridges, Nutritional Counseling, Laser Dentistry
-Location Latitude: 3.163810
-Location Longitude: 101.692245
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 153
-Services: Cavity Fillings, Mouthguards and Nightguards, Full Mouth Reconstruction, Inlays and Onlays, Post-Operative Care, Pediatric Dentistry, Teeth Whitening, Biopsy Services, Dental Crowns, Dental X-rays, Bite Analysis, Zirconia Crowns, Snoring Prevention Devices
-Location Latitude: 3.163884
-Location Longitude: 101.693149
-Operation Time: 8 AM - 6 PM
-
-Clinic Name: Clinic 154
-Services: Digital Impressions, Pediatric Dentistry, Dental Crowns, Veneers, Nutritional Counseling, Bite Analysis, Dental Sealants, Sedation Dentistry, Tooth Extractions
-Location Latitude: 3.165743
-Location Longitude: 101.694385
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 155
-Services: Custom Sports Mouthguards, Pediatric Dentistry, Pulpotomy, Occlusal Adjustment, Orthodontic Retainers, Halitosis Treatment, Fluoride Treatments, Bite Analysis
-Location Latitude: 3.167215
-Location Longitude: 101.702696
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 156
-Services: Dental Crowns, Dental Implants, Cosmetic Bonding, Dental Sealants, Teeth Whitening, Cavity Fillings, Custom Sports Mouthguards, Orthodontic Treatments, 3D Dental Imaging, Sleep Apnea Treatment, Oral Hygiene Education, Pediatric Dentistry, Professional Teeth Cleaning, Oral Cancer Screenings, Orthodontic Retainers
-Location Latitude: 3.174414
-Location Longitude: 101.706966
-Operation Time: 10 AM - 4 PM
-
-Clinic Name: Clinic 157
-Services: Pulpotomy, Dentures, Custom Sports Mouthguards, Dental Bridges, Full Mouth Reconstruction, Dental Sealants, Teeth Whitening, Dental X-rays, Geriatric Dentistry, Zirconia Crowns
-Location Latitude: 3.174667
-Location Longitude: 101.708579
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 158
-Services: Emergency Dental Care, Tooth Extractions, Botox for TMJ Disorders, Sleep Apnea Treatment, Custom Sports Mouthguards, Dental Bridges, Inlays and Onlays, Cosmetic Bonding
-Location Latitude: 3.174837
-Location Longitude: 101.713668
+Specialty: Medical Genetics, Cardiology, Oncology, Nephrology, Transplant Surgery
+Location Latitude: 3.164562
+Location Longitude: 101.688960
 Operation Time: 9 AM - 4 PM
 
-Clinic Name: Clinic 159
-Services: Botox for TMJ Disorders, TMJ Treatments, Zirconia Crowns, Snoring Prevention Devices, Dental X-rays, Digital Impressions, Nutritional Counseling, Pediatric Dentistry, Dental Crowns, Routine Dental Exams, Full Mouth Reconstruction, Veneers, Biopsy Services
-Location Latitude: 3.178924
-Location Longitude: 101.713719
-Operation Time: 8 AM - 6 PM
+Clinic Name: Clinic 152
+Specialty: Maxillofacial Surgery, Bariatric Surgery, Neonatal-Perinatal Medicine, Anesthesiology
+Location Latitude: 3.166206
+Location Longitude: 101.689682
+Operation Time: 10 AM - 6 PM
 
-Clinic Name: Clinic 160
-Services: Mouthguards and Nightguards, Digital Impressions, Zirconia Crowns, Nutritional Counseling, 3D Dental Imaging
-Location Latitude: 3.182815
-Location Longitude: 101.715264
+Clinic Name: Clinic 153
+Specialty: Bariatric Surgery, Anesthesiology, Pain Management, Orthopedics, Psychiatry
+Location Latitude: 3.166839
+Location Longitude: 101.692768
 Operation Time: 9 AM - 5 PM
 
+Clinic Name: Clinic 154
+Specialty: Sleep Medicine, Nephrology, Nuclear Medicine
+Location Latitude: 3.172259
+Location Longitude: 101.694152
+Operation Time: 10 AM - 6 PM
+
+Clinic Name: Clinic 155
+Specialty: Nephrology, Allergy and Immunology, Bariatric Surgery
+Location Latitude: 3.172831
+Location Longitude: 101.697515
+Operation Time: 8 AM - 4 PM
+
+Clinic Name: Clinic 156
+Specialty: Transplant Surgery, Infectious Disease, Neonatal-Perinatal Medicine, Nephrology
+Location Latitude: 3.175053
+Location Longitude: 101.704079
+Operation Time: 8 AM - 6 PM
+
+Clinic Name: Clinic 157
+Specialty: Rheumatology, Transplant Surgery, Cardiothoracic Surgery, General Surgery, Ophthalmology
+Location Latitude: 3.175556
+Location Longitude: 101.707931
+Operation Time: 10 AM - 4 PM
+
+Clinic Name: Clinic 158
+Specialty: Pulmonology, Family Medicine, Colorectal Surgery
+Location Latitude: 3.176145
+Location Longitude: 101.708326
+Operation Time: 8 AM - 6 PM
+
+Clinic Name: Clinic 159
+Specialty: Hospice and Palliative Medicine, Allergy and Immunology, Otolaryngology, Geriatrics
+Location Latitude: 3.178719
+Location Longitude: 101.722957
+Operation Time: 9 AM - 6 PM
+
+Clinic Name: Clinic 160
+Specialty: Cardiology, Anesthesiology, Neurology, Cardiothoracic Surgery
+Location Latitude: 3.181179
+Location Longitude: 101.724048
+Operation Time: 10 AM - 5 PM
+
 Clinic Name: Clinic 161
-Services: Halitosis Treatment, Biopsy Services, Snoring Prevention Devices, Dental Crowns, Pediatric Dentistry, 3D Dental Imaging
-Location Latitude: 3.194574
-Location Longitude: 101.719229
+Specialty: Geriatrics, Transplant Surgery, Plastic Surgery, Oncology
+Location Latitude: 3.181709
+Location Longitude: 101.726318
 Operation Time: 9 AM - 5 PM
 
 Clinic Name: Clinic 162
-Services: Periodontal Treatments, Occlusal Adjustment, Oral Pathology, Custom Sports Mouthguards, Dental X-rays, Snoring Prevention Devices, Pediatric Dentistry, Dental Crowns, Veneers, Tooth Extractions, Cavity Fillings, Pulpotomy
-Location Latitude: 3.194717
-Location Longitude: 101.723174
-Operation Time: 10 AM - 5 PM
+Specialty: Gynecology, Cardiothoracic Surgery, Nephrology, Podiatry, Dermatology
+Location Latitude: 3.187697
+Location Longitude: 101.726990
+Operation Time: 10 AM - 4 PM
 
 Clinic Name: Clinic 163
-Services: Orthodontic Treatments, Cosmetic Bonding, Nutritional Counseling, Dental Bridges, Dental Implants, Routine Dental Exams, Teeth Whitening, Digital Impressions, Fluoride Treatments
-Location Latitude: 3.198841
-Location Longitude: 101.724960
-Operation Time: 10 AM - 5 PM
+Specialty: Pain Management, Medical Genetics, Sleep Medicine, Rheumatology, Infectious Disease
+Location Latitude: 3.190101
+Location Longitude: 101.736139
+Operation Time: 9 AM - 5 PM
 
 Clinic Name: Clinic 164
-Services: Dental Implants, Botox for TMJ Disorders, Gingivectomy, Nutritional Counseling, Pulpotomy, Dental Sealants, Emergency Dental Care, Tooth Extractions, Custom Sports Mouthguards, TMJ Treatments
-Location Latitude: 3.198847
-Location Longitude: 101.729105
-Operation Time: 10 AM - 6 PM
+Specialty: Ophthalmology, Geriatrics, Pain Management, Medical Genetics, Neurology
+Location Latitude: 3.192240
+Location Longitude: 101.737970
+Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 165
-Services: Orthodontic Treatments, Laser Dentistry, Dental Implants, Full Mouth Reconstruction, Cosmetic Bonding, Oral Hygiene Education, Emergency Dental Care, Veneers, Inlays and Onlays, 3D Dental Imaging, Zirconia Crowns, Botox for TMJ Disorders, Sedation Dentistry, Tooth Extractions
-Location Latitude: 3.199332
-Location Longitude: 101.729173
-Operation Time: 10 AM - 6 PM
+Specialty: Sports Medicine, Family Medicine, Transplant Surgery
+Location Latitude: 3.198082
+Location Longitude: 101.743632
+Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 166
-Services: Dental Crowns, Dental Bridges, Mouthguards and Nightguards, Full Mouth Reconstruction, Cosmetic Bonding, Inlays and Onlays, Veneers, Orthodontic Treatments, Professional Teeth Cleaning, Periodontal Treatments, Oral Hygiene Education, Oral Cancer Screenings
-Location Latitude: 3.199858
-Location Longitude: 101.731021
-Operation Time: 9 AM - 5 PM
+Specialty: Infectious Disease, Gastrointestinal Surgery, Plastic Surgery, Cardiothoracic Surgery
+Location Latitude: 3.199529
+Location Longitude: 101.745745
+Operation Time: 8 AM - 6 PM
 
 Clinic Name: Clinic 167
-Services: Teeth Whitening, Oral Hygiene Education, Orthodontic Retainers, Routine Dental Exams, Digital Impressions, Professional Teeth Cleaning, Pulpotomy, Dental Implants, Root Canal Therapy, Dental Crowns, Dental X-rays, Dental Bridges, Fluoride Treatments, Custom Sports Mouthguards
-Location Latitude: 3.203774
-Location Longitude: 101.731113
-Operation Time: 9 AM - 5 PM
+Specialty: Pulmonology, Psychiatry, Forensic Medicine
+Location Latitude: 3.200824
+Location Longitude: 101.750929
+Operation Time: 8 AM - 5 PM
 
 Clinic Name: Clinic 168
-Services: Teeth Whitening, Emergency Dental Care, Mobile Dentistry, Custom Sports Mouthguards, Oral Hygiene Education, Dental Sealants, Periodontal Treatments, Laser Dentistry, Mouthguards and Nightguards
-Location Latitude: 3.206812
-Location Longitude: 101.733866
+Specialty: Family Medicine, Transplant Surgery, Gastroenterology, Podiatry, Gynecology
+Location Latitude: 3.201650
+Location Longitude: 101.756058
 Operation Time: 10 AM - 5 PM
 
 Clinic Name: Clinic 169
-Services: Pulpotomy, Periodontal Treatments, 3D Dental Imaging, Custom Sports Mouthguards, Dental Crowns, Full Mouth Reconstruction, Zirconia Crowns, Teeth Whitening, Dental Sealants, Sedation Dentistry, Routine Dental Exams, Halitosis Treatment, Dental Bridges, Post-Operative Care
-Location Latitude: 3.209980
-Location Longitude: 101.739260
+Specialty: Reproductive Endocrinology, Hospice and Palliative Medicine, Pulmonology
+Location Latitude: 3.203180
+Location Longitude: 101.757197
 Operation Time: 9 AM - 4 PM
 
 Clinic Name: Clinic 170
-Services: Oral Pathology, Inlays and Onlays, Snoring Prevention Devices, Cosmetic Bonding, Geriatric Dentistry, Dental X-rays, Mobile Dentistry, Occlusal Adjustment
-Location Latitude: 3.217462
-Location Longitude: 101.747438
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 171
-Services: Halitosis Treatment, Biopsy Services, Veneers, Mobile Dentistry, Oral Cancer Screenings, Oral Hygiene Education, Dental X-rays, Sleep Apnea Treatment
-Location Latitude: 3.221408
-Location Longitude: 101.757896
-Operation Time: 8 AM - 4 PM
-
-Clinic Name: Clinic 172
-Services: Teeth Whitening, Periodontal Treatments, Post-Operative Care, Emergency Dental Care, Biopsy Services
-Location Latitude: 3.224418
-Location Longitude: 101.759942
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 173
-Services: Cosmetic Bonding, Professional Teeth Cleaning, Oral Pathology, Zirconia Crowns, Oral Hygiene Education
-Location Latitude: 3.229115
-Location Longitude: 101.762293
-Operation Time: 8 AM - 4 PM
-
-Clinic Name: Clinic 174
-Services: Halitosis Treatment, Dentures, Orthodontic Treatments, Pulpotomy, Post-Operative Care, Fluoride Treatments, Inlays and Onlays, Periodontal Treatments
-Location Latitude: 3.229126
-Location Longitude: 101.763419
-Operation Time: 9 AM - 5 PM
-
-Clinic Name: Clinic 175
-Services: Tooth Extractions, Biopsy Services, Gingivectomy, Halitosis Treatment, Root Canal Therapy
-Location Latitude: 3.231049
-Location Longitude: 101.763792
-Operation Time: 10 AM - 6 PM
-
-Clinic Name: Clinic 176
-Services: Root Canal Therapy, Biopsy Services, Sedation Dentistry, Nutritional Counseling, Teeth Whitening, Periodontal Treatments, Dentures, Oral Cancer Screenings, Custom Sports Mouthguards, Emergency Dental Care
-Location Latitude: 3.234042
-Location Longitude: 101.764384
-Operation Time: 10 AM - 6 PM
-
-Clinic Name: Clinic 177
-Services: Custom Sports Mouthguards, Mobile Dentistry, Post-Operative Care, TMJ Treatments, Snoring Prevention Devices, Tooth Extractions, Digital Impressions, Geriatric Dentistry, Fluoride Treatments
-Location Latitude: 3.238101
-Location Longitude: 101.778292
-Operation Time: 8 AM - 5 PM
-
-Clinic Name: Clinic 178
-Services: 3D Dental Imaging, Nutritional Counseling, Botox for TMJ Disorders, Tooth Extractions, Pulpotomy, Halitosis Treatment, Geriatric Dentistry, Oral Cancer Screenings, Dental X-rays, Biopsy Services, Oral Hygiene Education, Zirconia Crowns, Post-Operative Care
-Location Latitude: 3.243406
-Location Longitude: 101.784011
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 179
-Services: 3D Dental Imaging, Emergency Dental Care, Digital Impressions, Teeth Whitening, Dental X-rays, Root Canal Therapy, Custom Sports Mouthguards, Post-Operative Care, Nutritional Counseling, Cosmetic Bonding, Gingivectomy, Routine Dental Exams
-Location Latitude: 3.243859
-Location Longitude: 101.788905
-Operation Time: 10 AM - 6 PM
-
-Clinic Name: Clinic 180
-Services: Botox for TMJ Disorders, Veneers, Teeth Whitening, Orthodontic Retainers, Oral Hygiene Education, Laser Dentistry, Inlays and Onlays
-Location Latitude: 3.248439
-Location Longitude: 101.793307
-Operation Time: 10 AM - 5 PM
-
-Clinic Name: Clinic 181
-Services: Teeth Whitening, Halitosis Treatment, Dental Implants, Dental Crowns, Post-Operative Care, Geriatric Dentistry, Dentures, Fluoride Treatments, Bite Analysis, Professional Teeth Cleaning, Full Mouth Reconstruction, Pediatric Dentistry, Cavity Fillings, Biopsy Services
-Location Latitude: 3.250344
-Location Longitude: 101.802001
-Operation Time: 10 AM - 6 PM
-
-Clinic Name: Clinic 182
-Services: Zirconia Crowns, Dental Crowns, Mouthguards and Nightguards, Botox for TMJ Disorders, Halitosis Treatment, Emergency Dental Care, Veneers, Orthodontic Retainers, Dental Implants, Dental Bridges, Custom Sports Mouthguards, Periodontal Treatments
-Location Latitude: 3.252340
-Location Longitude: 101.811473
+Specialty: Allergy and Immunology, Family Medicine, Physical Therapy
+Location Latitude: 3.211003
+Location Longitude: 101.757441
 Operation Time: 10 AM - 4 PM
 
-Clinic Name: Clinic 183
-Services: Routine Dental Exams, Mobile Dentistry, Full Mouth Reconstruction, Dental Bridges, Dental Implants
-Location Latitude: 3.254468
-Location Longitude: 101.813303
+Clinic Name: Clinic 171
+Specialty: Cardiothoracic Surgery, Pediatrics, Endocrinology, Sleep Medicine, Cardiology
+Location Latitude: 3.212715
+Location Longitude: 101.762943
+Operation Time: 10 AM - 5 PM
+
+Clinic Name: Clinic 172
+Specialty: Pain Management, Podiatry, Obstetrics, Reproductive Endocrinology, Cardiothoracic Surgery
+Location Latitude: 3.218484
+Location Longitude: 101.765643
+Operation Time: 10 AM - 6 PM
+
+Clinic Name: Clinic 173
+Specialty: Internal Medicine, Sports Medicine, Medical Genetics, Podiatry, Hematology
+Location Latitude: 3.223886
+Location Longitude: 101.765893
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 174
+Specialty: Vascular Surgery, Neonatology, Geriatrics
+Location Latitude: 3.224286
+Location Longitude: 101.769898
 Operation Time: 9 AM - 4 PM
+
+Clinic Name: Clinic 175
+Specialty: Pulmonology, Geriatrics, Neonatology, Bariatric Surgery
+Location Latitude: 3.225368
+Location Longitude: 101.772361
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 176
+Specialty: Colorectal Surgery, Urology, Sleep Medicine
+Location Latitude: 3.228095
+Location Longitude: 101.773677
+Operation Time: 10 AM - 5 PM
+
+Clinic Name: Clinic 177
+Specialty: Obstetrics, Cardiothoracic Surgery, Neonatal-Perinatal Medicine, Internal Medicine
+Location Latitude: 3.230923
+Location Longitude: 101.780025
+Operation Time: 9 AM - 6 PM
+
+Clinic Name: Clinic 178
+Specialty: Otolaryngology, Endocrinology, Internal Medicine
+Location Latitude: 3.234137
+Location Longitude: 101.780336
+Operation Time: 9 AM - 5 PM
+
+Clinic Name: Clinic 179
+Specialty: Nuclear Medicine, Sports Medicine, Podiatry
+Location Latitude: 3.245148
+Location Longitude: 101.781129
+Operation Time: 8 AM - 4 PM
+
+Clinic Name: Clinic 180
+Specialty: Gastroenterology, Endocrinology, Nephrology
+Location Latitude: 3.252984
+Location Longitude: 101.781399
+Operation Time: 8 AM - 5 PM
+
+Clinic Name: Clinic 181
+Specialty: Infectious Disease, Plastic Surgery, Vascular Surgery
+Location Latitude: 3.253720
+Location Longitude: 101.794048
+Operation Time: 8 AM - 5 PM
+
+Clinic Name: Clinic 182
+Specialty: Gastroenterology, Gastrointestinal Surgery, Infectious Disease, Colorectal Surgery
+Location Latitude: 3.258228
+Location Longitude: 101.797787
+Operation Time: 10 AM - 5 PM
+
+Clinic Name: Clinic 183
+Specialty: Hematology, Cardiothoracic Surgery, Reproductive Endocrinology
+Location Latitude: 3.259347
+Location Longitude: 101.811599
+Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 184
-Services: Occlusal Adjustment, Root Canal Therapy, Nutritional Counseling, Dental Crowns, Dental X-rays, Biopsy Services, Geriatric Dentistry, Laser Dentistry, Dentures
-Location Latitude: 3.261064
-Location Longitude: 101.817028
-Operation Time: 9 AM - 4 PM
+Specialty: Otolaryngology, Bariatric Surgery, Gynecology, Pediatrics, Ophthalmology
+Location Latitude: 3.262474
+Location Longitude: 101.812062
+Operation Time: 10 AM - 6 PM
 
 Clinic Name: Clinic 185
-Services: Pediatric Dentistry, Cavity Fillings, Oral Hygiene Education, Occlusal Adjustment, Halitosis Treatment, Root Canal Therapy, Dental Implants, Teeth Whitening, Zirconia Crowns, Oral Cancer Screenings
-Location Latitude: 3.262394
-Location Longitude: 101.819262
+Specialty: Nuclear Medicine, Interventional Radiology, Obstetrics, Plastic Surgery
+Location Latitude: 3.263961
+Location Longitude: 101.812937
 Operation Time: 8 AM - 6 PM
 
 Clinic Name: Clinic 186
-Services: Mouthguards and Nightguards, Pediatric Dentistry, Veneers, Routine Dental Exams, Nutritional Counseling, 3D Dental Imaging, Periodontal Treatments, Digital Impressions, Teeth Whitening, Snoring Prevention Devices, Cosmetic Bonding, Halitosis Treatment, Botox for TMJ Disorders, Biopsy Services, Full Mouth Reconstruction
-Location Latitude: 3.276884
-Location Longitude: 101.819960
-Operation Time: 9 AM - 6 PM
+Specialty: Neonatology, Endocrinology, Medical Genetics, Otolaryngology, Nuclear Medicine
+Location Latitude: 3.265969
+Location Longitude: 101.825258
+Operation Time: 8 AM - 4 PM
 
 Clinic Name: Clinic 187
-Services: Cavity Fillings, Bite Analysis, Tooth Extractions, Root Canal Therapy, Geriatric Dentistry, Full Mouth Reconstruction, Orthodontic Retainers, Routine Dental Exams, Digital Impressions, Post-Operative Care, Dentures, Oral Pathology, Laser Dentistry, Professional Teeth Cleaning, Occlusal Adjustment
-Location Latitude: 3.282325
-Location Longitude: 101.820414
+Specialty: Vascular Surgery, Forensic Medicine, Hospice and Palliative Medicine
+Location Latitude: 3.272038
+Location Longitude: 101.825573
 Operation Time: 10 AM - 5 PM
 
 Clinic Name: Clinic 188
-Services: Occlusal Adjustment, Digital Impressions, Sleep Apnea Treatment, Routine Dental Exams, Botox for TMJ Disorders, Orthodontic Retainers, Custom Sports Mouthguards, Dental Crowns, Dentures, Periodontal Treatments
-Location Latitude: 3.284615
-Location Longitude: 101.822515
-Operation Time: 9 AM - 5 PM
+Specialty: Infectious Disease, Psychiatry, Internal Medicine
+Location Latitude: 3.275399
+Location Longitude: 101.826839
+Operation Time: 10 AM - 6 PM
 
 Clinic Name: Clinic 189
-Services: Dental Crowns, Dental Implants, Orthodontic Treatments, Mobile Dentistry, Bite Analysis, Dental Bridges, Emergency Dental Care
-Location Latitude: 3.286324
-Location Longitude: 101.831541
-Operation Time: 9 AM - 4 PM
+Specialty: Otolaryngology, Anesthesiology, Sleep Medicine
+Location Latitude: 3.275451
+Location Longitude: 101.830769
+Operation Time: 10 AM - 5 PM
 
 Clinic Name: Clinic 190
-Services: Cavity Fillings, Gingivectomy, Halitosis Treatment, Dental Implants, Snoring Prevention Devices, Geriatric Dentistry, Mouthguards and Nightguards, Mobile Dentistry, Dental Bridges, Nutritional Counseling
-Location Latitude: 3.287623
-Location Longitude: 101.838672
-Operation Time: 9 AM - 4 PM
+Specialty: Medical Genetics, Urology, Maxillofacial Surgery
+Location Latitude: 3.277288
+Location Longitude: 101.835516
+Operation Time: 8 AM - 5 PM
 
 Clinic Name: Clinic 191
-Services: Veneers, Botox for TMJ Disorders, Dental X-rays, Periodontal Treatments, Oral Pathology, Pediatric Dentistry, Custom Sports Mouthguards
-Location Latitude: 3.291639
-Location Longitude: 101.847705
-Operation Time: 9 AM - 6 PM
+Specialty: Gastrointestinal Surgery, Allergy and Immunology, Sleep Medicine, Interventional Radiology, Cardiothoracic Surgery
+Location Latitude: 3.279253
+Location Longitude: 101.836463
+Operation Time: 10 AM - 6 PM
 
 Clinic Name: Clinic 192
-Services: Periodontal Treatments, Tooth Extractions, Halitosis Treatment, Cavity Fillings, Bite Analysis, Routine Dental Exams
-Location Latitude: 3.294399
-Location Longitude: 101.849602
-Operation Time: 9 AM - 5 PM
+Specialty: Pulmonology, Sleep Medicine, Family Medicine, Colorectal Surgery, Rheumatology
+Location Latitude: 3.282909
+Location Longitude: 101.841292
+Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 193
-Services: Snoring Prevention Devices, Cosmetic Bonding, Dental Bridges, Gingivectomy, Dentures, Periodontal Treatments, Mouthguards and Nightguards, Dental Crowns, Sleep Apnea Treatment, Occlusal Adjustment, Emergency Dental Care, Professional Teeth Cleaning, Dental X-rays, TMJ Treatments, Tooth Extractions
-Location Latitude: 3.297162
-Location Longitude: 101.849770
+Specialty: Gastroenterology, Pulmonology, Otolaryngology, Geriatrics, Neurology
+Location Latitude: 3.286877
+Location Longitude: 101.844534
 Operation Time: 9 AM - 4 PM
 
 Clinic Name: Clinic 194
-Services: Dental Sealants, Biopsy Services, Oral Hygiene Education, Root Canal Therapy, Fluoride Treatments
-Location Latitude: 3.302177
-Location Longitude: 101.851379
+Specialty: General Surgery, Internal Medicine, Oncology
+Location Latitude: 3.301785
+Location Longitude: 101.846882
 Operation Time: 9 AM - 5 PM
 
 Clinic Name: Clinic 195
-Services: 3D Dental Imaging, Fluoride Treatments, Sleep Apnea Treatment, Mobile Dentistry, Gingivectomy, Full Mouth Reconstruction, Orthodontic Retainers, Pediatric Dentistry, Inlays and Onlays, Botox for TMJ Disorders, Zirconia Crowns, Emergency Dental Care, Mouthguards and Nightguards, Veneers, Dental Implants
-Location Latitude: 3.304773
-Location Longitude: 101.858920
-Operation Time: 9 AM - 4 PM
+Specialty: Ophthalmology, Oncology, Gastroenterology
+Location Latitude: 3.303065
+Location Longitude: 101.847859
+Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 196
-Services: Dentures, Mouthguards and Nightguards, Cavity Fillings, Veneers, Sedation Dentistry, Orthodontic Treatments
-Location Latitude: 3.314447
-Location Longitude: 101.859231
-Operation Time: 10 AM - 4 PM
+Specialty: Endocrinology, Psychiatry, Dermatology, Vascular Surgery, Oncology
+Location Latitude: 3.305597
+Location Longitude: 101.853733
+Operation Time: 9 AM - 4 PM
 
 Clinic Name: Clinic 197
-Services: Sleep Apnea Treatment, Gingivectomy, Dentures, Orthodontic Retainers, Pediatric Dentistry, Tooth Extractions
-Location Latitude: 3.314541
-Location Longitude: 101.864797
-Operation Time: 8 AM - 4 PM
+Specialty: Cardiology, Hematology, Reproductive Endocrinology, Physical Therapy
+Location Latitude: 3.305763
+Location Longitude: 101.858232
+Operation Time: 9 AM - 4 PM
 
 Clinic Name: Clinic 198
-Services: Dental Bridges, Inlays and Onlays, Teeth Whitening, Laser Dentistry, Periodontal Treatments, Occlusal Adjustment, Dental Sealants, Full Mouth Reconstruction
-Location Latitude: 3.314956
-Location Longitude: 101.865215
-Operation Time: 10 AM - 4 PM
+Specialty: Pain Management, Nephrology, Hospice and Palliative Medicine, Medical Genetics, Dermatology
+Location Latitude: 3.314460
+Location Longitude: 101.858939
+Operation Time: 9 AM - 6 PM
 
 Clinic Name: Clinic 199
-Services: Geriatric Dentistry, Root Canal Therapy, Occlusal Adjustment, Snoring Prevention Devices, Sedation Dentistry, Teeth Whitening, Dental X-rays, Biopsy Services, Inlays and Onlays, Nutritional Counseling, Oral Pathology
-Location Latitude: 3.316786
-Location Longitude: 101.865814
-Operation Time: 9 AM - 6 PM
+Specialty: Gastroenterology, Internal Medicine, Pain Management, Infectious Disease
+Location Latitude: 3.317050
+Location Longitude: 101.860719
+Operation Time: 10 AM - 4 PM

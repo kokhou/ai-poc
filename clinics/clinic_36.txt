@@ -1,5 +1,0 @@
-Clinic Name: Clinic 735
-Services: Digital Impressions, Sedation Dentistry, Laser Dentistry, Occlusal Adjustment, Orthodontic Treatments, Oral Hygiene Education
-Location Latitude: 3.139003
-Location Longitude: 101.638983
-Operation Time: 8 AM - 6 PM

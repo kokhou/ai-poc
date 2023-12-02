@@ -1,5 +1,0 @@
-Clinic Name: Clinic 843
-Services: Custom Sports Mouthguards, Occlusal Adjustment, Mobile Dentistry, Cavity Fillings, Veneers, Periodontal Treatments, Digital Impressions, Dental Bridges, Oral Hygiene Education
-Location Latitude: 3.139003
-Location Longitude: 101.621793
-Operation Time: 10 AM - 5 PM

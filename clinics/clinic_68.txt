@@ -1,5 +1,0 @@
-Clinic Name: Clinic 615
-Services: Zirconia Crowns, Inlays and Onlays, Pulpotomy, Post-Operative Care, Halitosis Treatment, Emergency Dental Care, Sedation Dentistry, Full Mouth Reconstruction, Fluoride Treatments, Pediatric Dentistry, Oral Hygiene Education, Laser Dentistry, Dental Implants, Gingivectomy, Periodontal Treatments
-Location Latitude: 3.139003
-Location Longitude: 101.759337
-Operation Time: 9 AM - 5 PM

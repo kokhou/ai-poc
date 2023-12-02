@@ -1,5 +1,0 @@
-Clinic Name: Clinic 44
-Services: Tooth Extractions, Dentures, Occlusal Adjustment, TMJ Treatments, Dental Sealants, Periodontal Treatments, Emergency Dental Care, Pulpotomy, Geriatric Dentistry, Inlays and Onlays, Post-Operative Care, Custom Sports Mouthguards
-Location Latitude: 3.139003
-Location Longitude: 101.578325
-Operation Time: 8 AM - 6 PM

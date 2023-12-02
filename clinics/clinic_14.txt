@@ -1,5 +1,0 @@
-Clinic Name: Clinic 487
-Services: Botox for TMJ Disorders, Dental Bridges, Inlays and Onlays, Halitosis Treatment, Oral Cancer Screenings, 3D Dental Imaging, Emergency Dental Care, Digital Impressions, Professional Teeth Cleaning, Full Mouth Reconstruction, Orthodontic Treatments, Teeth Whitening, Cavity Fillings
-Location Latitude: 3.139003
-Location Longitude: 101.566369
-Operation Time: 9 AM - 6 PM

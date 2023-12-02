@@ -1,5 +1,0 @@
-Clinic Name: Clinic 56
-Services: Post-Operative Care, Mouthguards and Nightguards, Teeth Whitening, Dental Crowns, Periodontal Treatments, Geriatric Dentistry
-Location Latitude: 3.139003
-Location Longitude: 101.640362
-Operation Time: 9 AM - 4 PM

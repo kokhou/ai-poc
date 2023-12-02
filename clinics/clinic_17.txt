@@ -1,5 +1,0 @@
-Clinic Name: Clinic 806
-Services: Full Mouth Reconstruction, Tooth Extractions, Teeth Whitening, Dentures, Cavity Fillings, Mobile Dentistry, Gingivectomy, Occlusal Adjustment, Pediatric Dentistry, Botox for TMJ Disorders, Post-Operative Care, Pulpotomy
-Location Latitude: 3.139003
-Location Longitude: 101.571522
-Operation Time: 9 AM - 5 PM

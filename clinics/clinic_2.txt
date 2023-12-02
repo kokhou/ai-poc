@@ -1,5 +1,0 @@
-Clinic Name: Clinic 377
-Services: Routine Dental Exams, Cavity Fillings, Full Mouth Reconstruction, Mouthguards and Nightguards, Inlays and Onlays, Dental Crowns, Laser Dentistry, Geriatric Dentistry, Halitosis Treatment, Oral Pathology, Nutritional Counseling, Zirconia Crowns, Teeth Whitening, Custom Sports Mouthguards, Tooth Extractions
-Location Latitude: 3.139003
-Location Longitude: 101.526259
-Operation Time: 8 AM - 5 PM

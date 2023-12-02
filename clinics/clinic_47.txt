@@ -1,5 +1,0 @@
-Clinic Name: Clinic 911
-Services: Inlays and Onlays, Oral Hygiene Education, Custom Sports Mouthguards, Professional Teeth Cleaning, Digital Impressions, Emergency Dental Care, Sedation Dentistry, Routine Dental Exams, Oral Pathology
-Location Latitude: 3.139003
-Location Longitude: 101.672290
-Operation Time: 9 AM - 5 PM

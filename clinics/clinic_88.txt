@@ -1,5 +1,0 @@
-Clinic Name: Clinic 56
-Services: 3D Dental Imaging, Mouthguards and Nightguards, Professional Teeth Cleaning, Cosmetic Bonding, Oral Cancer Screenings, Dental Implants, Pediatric Dentistry
-Location Latitude: 3.139003
-Location Longitude: 101.838141
-Operation Time: 9 AM - 4 PM

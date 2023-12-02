@@ -1,5 +1,0 @@
-Clinic Name: Clinic 808
-Services: Occlusal Adjustment, TMJ Treatments, Inlays and Onlays, Root Canal Therapy, Pulpotomy, Routine Dental Exams, Snoring Prevention Devices, Professional Teeth Cleaning, Cavity Fillings, Orthodontic Treatments, Gingivectomy, Dental Crowns
-Location Latitude: 3.139003
-Location Longitude: 101.516975
-Operation Time: 8 AM - 4 PM

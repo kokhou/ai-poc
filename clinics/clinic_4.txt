@@ -1,5 +1,0 @@
-Clinic Name: Clinic 137
-Services: Fluoride Treatments, Orthodontic Treatments, Custom Sports Mouthguards, Oral Cancer Screenings, Dental Crowns, Geriatric Dentistry, Cavity Fillings, Laser Dentistry, Full Mouth Reconstruction, Orthodontic Retainers, Halitosis Treatment, Mouthguards and Nightguards
-Location Latitude: 3.139003
-Location Longitude: 101.529754
-Operation Time: 9 AM - 4 PM

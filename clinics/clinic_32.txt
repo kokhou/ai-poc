@@ -1,5 +1,0 @@
-Clinic Name: Clinic 182
-Services: Cosmetic Bonding, Dental Crowns, Mobile Dentistry, Biopsy Services, Emergency Dental Care, Orthodontic Retainers, Veneers, Routine Dental Exams, Digital Impressions
-Location Latitude: 3.139003
-Location Longitude: 101.627686
-Operation Time: 8 AM - 5 PM
