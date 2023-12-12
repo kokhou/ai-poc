@@ -12,6 +12,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.llms.openai import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain.schema import StrOutputParser
 from langchain.sql_database import SQLDatabase
 from langchain.vectorstores import Chroma
 
@@ -33,14 +34,16 @@ from langchain.vectorstores import Chroma
 # query = "My eyes haven't been feeling very well lately"
 # query = "I have no any problem"
 # query = "how are you today"
-# query = "It's been a little painful to urinate recently"
+query = "It's been a little painful to urinate recently"
 # query = "It's a bit painful to have bowel movements recently"
-query = "I have been suffering from insomnia recently, what should I do?"
+# query = "I have been suffering from insomnia recently, what should I do?"
 
-print(query)
+# print(query)
 
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY"),
+
+specialty_needed = ''
 
 
 def load_from_desk(embedding_model):
@@ -53,29 +56,96 @@ def load_from_desk(embedding_model):
 
 openai_lc_client = load_from_desk(OpenAIEmbeddings(model="text-embedding-ada-002"))
 
-specialtyNeeded = ''
-with get_openai_callback() as cb:
-    pre_prompt1 = """[INST] <<SYS>>\n
-        "Cardiology","Dermatology", "Gastroenterology", "Neurology", "Orthopedics",
-        "Pediatrics", "Ophthalmology", "Urology", "Pulmonology", "Rheumatology",
-        "Endocrinology", "Obstetrics", "Gynecology", "Nephrology", "Hematology",
-        "Otolaryngology", "Infectious Disease", "Allergy and Immunology", "Psychiatry",
-        "Radiology", "Anesthesiology", "Oncology", "Plastic Surgery", "Physical Therapy",
-        "Geriatrics", "Family Medicine", "Internal Medicine", "General Surgery",
-        "Cardiothoracic Surgery", "Vascular Surgery", "Neonatology", "Sports Medicine",
-        "Pain Management", "Podiatry", "Dental", "Geriatric Medicine", "Neonatal-Perinatal Medicine",
-        "Reproductive Endocrinology", "Transplant Surgery", "Bariatric Surgery",
-        "Colorectal Surgery", "Gastrointestinal Surgery", "Maxillofacial Surgery",
-        "Forensic Medicine", "Hospice and Palliative Medicine", "Interventional Radiology",
-        "Pediatric Surgery", "Nuclear Medicine", "Sleep Medicine", "Medical Genetics",
-        You will try to understand the question and based on the question to find which specialty is suitable for me.
-        You can only answer my question using the context I provided if you don't find the answer, just answer 'I do not know your question'.
-        If you think patient no problem, then answer 'I think you are ok.'.
 
-        <<Response list possible specialties match with the situation, and nothing else>>
-        Specialties: <List of Specialty>
-        ...
-        \n\n"""
+def go_basic():
+    context1027 = """
+            user: What is the capital of France?
+            Obviously, it's Paris! Everyone knows that!
+            
+            user: How many continents are there?
+            Seven! Why can't you remember such a simple fact?
+            
+            user: What causes rain?
+            It's the water cycle! Evaporation, condensation, precipitation – it's not rocket science!
+            
+            user: Who wrote 'Romeo and Juliet'?
+            Shakespeare! How can you not know this?!
+            
+            user: What's the distance from the Earth to the Moon?
+            About 384,400 km. Why are you asking me things you can easily Google?"
+    """
+    context0809 = """
+            Q: Why is the sky blue?
+            The sky appears blue due to a phenomenon called Rayleigh scattering. Sunlight, when it enters Earth's atmosphere, scatters in all directions, and blue light scatters more due to its shorter wavelength. That's why we see a blue sky most of the time.
+
+            Q: What do pandas eat?
+            Pandas primarily eat bamboo. They have a diet that is highly specialized for consuming bamboo, and they spend most of their day eating to fulfill their nutritional needs. Bamboo provides them with all the necessary nutrients.
+
+            Q: Where do penguins live?
+            Penguins are found primarily in the Southern Hemisphere. The most well-known habitat is Antarctica, but they also reside in coastal regions of South America, Africa, Australia, and some sub-Antarctic islands.
+
+            Q: How many colors are in a rainbow?
+            A rainbow typically has seven visible colors, which are red, orange, yellow, green, blue, indigo, and violet. This is due to the dispersion of light in water droplets, resulting in a spectrum of colors.
+
+            Q: Why do we have seasons?
+            Seasons occur because of the Earth's axial tilt and its orbit around the Sun. Different parts of the Earth receive varying amounts of sunlight during the year, leading to seasonal changes.
+    """
+
+    template = """
+        This is a conversation between a user and a assistant.
+        {context}
+        Analyzing and replicating diverse conversation styles of the person in provided context.
+        Its core function is to discern the unique dialogue styles of different characters and emulate these styles in its responses.
+        Upon receiving user-provided fine-tune data, will meticulously study the tone, vocabulary, and speech patterns specific to each character.
+        ensuring that replies authentically reflect the character's distinctive speech style. 
+    """
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", template),
+        ("human", "{question}")
+    ])
+    model = ChatOpenAI(model_name="gpt-3.5-turbo-1106", tiktoken_model_name="gpt-3.5-turbo-1106", temperature=0,
+                       verbose=False)
+    output_parser = StrOutputParser()
+
+    # setup_and_retrieval = RunnableParallel(
+    #     {"context": context0809, "question": RunnablePassthrough()}
+    # )
+    chain = prompt | model | output_parser
+
+    with get_openai_callback() as cb:
+        global specialty_needed
+        specialty_needed = chain.invoke({"context": context1027, "question": "what is color of rainbow?"})
+        print(f"Total Tokens: {cb.total_tokens}")
+        print(f"Prompt Tokens: {cb.prompt_tokens}")
+        print(f"Completion Tokens: {cb.completion_tokens}")
+        print(f"Total Cost (USD): ${cb.total_cost}")
+        print("")
+        print(specialty_needed)
+        print("")
+
+
+def go_collection():
+    pre_prompt1 = """[INST] <<SYS>>\n
+            "Cardiology","Dermatology", "Gastroenterology", "Neurology", "Orthopedics",
+            "Pediatrics", "Ophthalmology", "Urology", "Pulmonology", "Rheumatology",
+            "Endocrinology", "Obstetrics", "Gynecology", "Nephrology", "Hematology",
+            "Otolaryngology", "Infectious Disease", "Allergy and Immunology", "Psychiatry",
+            "Radiology", "Anesthesiology", "Oncology", "Plastic Surgery", "Physical Therapy",
+            "Geriatrics", "Family Medicine", "Internal Medicine", "General Surgery",
+            "Cardiothoracic Surgery", "Vascular Surgery", "Neonatology", "Sports Medicine",
+            "Pain Management", "Podiatry", "Dental", "Geriatric Medicine", "Neonatal-Perinatal Medicine",
+            "Reproductive Endocrinology", "Transplant Surgery", "Bariatric Surgery",
+            "Colorectal Surgery", "Gastrointestinal Surgery", "Maxillofacial Surgery",
+            "Forensic Medicine", "Hospice and Palliative Medicine", "Interventional Radiology",
+            "Pediatric Surgery", "Nuclear Medicine", "Sleep Medicine", "Medical Genetics",
+            You will try to understand the question and based on the question to find which specialty is suitable for me.
+            You can only answer my question using the context I provided if you don't find the answer, just answer 'I do not know your question'.
+            If you think patient no problem, then answer 'I think you are ok.'.
+
+            <<Response list possible specialties match with the situation, and nothing else>>
+            Specialties: <List of Specialties>
+            ...
+            \n\n"""
     context1 = "CONTEXT:\n\n{context}\n" + "Question: {question}" + "[\INST]"
     prompt1 = pre_prompt1 + context1
     rag_prompt_custom1 = PromptTemplate(template=prompt1, input_variables=["context", "question"])
@@ -87,15 +157,17 @@ with get_openai_callback() as cb:
                                                 combine_docs_chain_kwargs={"prompt": rag_prompt_custom1},
                                                 verbose=False)
 
-    result = qa1({"question": query, "chat_history": []})
-    specialtyNeeded = result["answer"]
-    print(f"Total Tokens: {cb.total_tokens}")
-    print(f"Prompt Tokens: {cb.prompt_tokens}")
-    print(f"Completion Tokens: {cb.completion_tokens}")
-    print(f"Total Cost (USD): ${cb.total_cost}")
-    print("")
-    print(specialtyNeeded)
-    print("")
+    with get_openai_callback() as cb:
+        result = qa1({"question": query, "chat_history": []})
+        global specialty_needed
+        specialty_needed = result["answer"]
+        print(f"Total Tokens: {cb.total_tokens}")
+        print(f"Prompt Tokens: {cb.prompt_tokens}")
+        print(f"Completion Tokens: {cb.completion_tokens}")
+        print(f"Total Cost (USD): ${cb.total_cost}")
+        print("")
+        print(specialty_needed)
+        print("")
 
 
 def go_database():
@@ -136,12 +208,15 @@ def go_database():
         ]
     ).format(
         question=f"""
-            Specialties Name: {specialtyNeeded}
+            {specialty_needed}
             My Location Latitude: 3.04885
             My Location Longitude: 101.5592222
         """
     )
 
+    print("-------------------")
+    print(specialty_needed)
+    print("-------------------")
     toolkit = SQLDatabaseToolkit(db=db, llm=llm)
     agent_executor = create_sql_agent(
         llm=llm,
@@ -160,5 +235,10 @@ def go_database():
         print(response)
 
 
-if specialtyNeeded != 'I do not know your question.' or specialtyNeeded != 'I think you are ok.':
+# gpt-3.5-turbo-1106
+go_collection()
+
+if specialty_needed != 'I do not know your question.' or specialty_needed != 'I think you are ok.':
     go_database()
+
+# go_basic()
