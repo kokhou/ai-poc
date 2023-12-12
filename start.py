@@ -6,14 +6,13 @@ from langchain.agents import create_sql_agent
 from langchain.agents.agent_toolkits import SQLDatabaseToolkit
 from langchain.agents.agent_types import AgentType
 from langchain.callbacks import get_openai_callback
-from langchain.chains import ConversationalRetrievalChain, LLMChain
+from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.llms.openai import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from langchain.schema import StrOutputParser
-from langchain.schema.runnable import RunnablePassthrough, RunnableParallel
 from langchain.sql_database import SQLDatabase
 from langchain.vectorstores import Chroma
 
@@ -237,9 +236,9 @@ def go_database():
 
 
 # gpt-3.5-turbo-1106
-# go_collection()
-#
-# if specialty_needed != 'I do not know your question.' or specialty_needed != 'I think you are ok.':
-#     go_database()
+go_collection()
 
-go_basic()
+if specialty_needed != 'I do not know your question.' or specialty_needed != 'I think you are ok.':
+    go_database()
+
+# go_basic()
